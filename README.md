@@ -1,1 +1,1 @@
-# analytics_projects
+This repo contains code to my analytics projects from grad school.
