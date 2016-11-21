@@ -2,7 +2,7 @@ This repo contains code for my analytics coursework (course_XX) and major projec
 
 01 - Canonical Correlation Analysis on Chicago Crime, Business, and Abandoned Housing Data  
 02 - Database Implementation and Querying  
-03 -   
+03 - Data Mining Project
 04 - Social Network Analysis of movieLens Horror Film Reviews  
 05 - Modelling the Behaviour of MSNBC.com Users Using Markov Models  
 06 - Film Recommender System Implementation  
