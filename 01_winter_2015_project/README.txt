@@ -3,6 +3,7 @@ This report seeks to identify and quantify relationships between three community
 
 Files:
 chicago_crime_project.pdf - contains the final project report
+cca_code.R - contains the R code of CCA
 data directory - contains the crime, business, and abandoned housing datasets
 
 Notes:
