@@ -1,5 +1,5 @@
 Motivation:
-Data Mining Project more akin to a final take home test. The goal was to perform the data mining process as well as test for an optimal training/testing split percentage.
+Data Mining Project more akin to a final take home test. The goal was to go through the data mining process as well as test for an optimal training/testing split percentage.
 
 Files:
 data_mining_project.pdf - report

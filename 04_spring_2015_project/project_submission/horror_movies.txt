@@ -1,0 +1,2545 @@
+2168;Dracula: Dead and Loving It;4;2001-02-16
+4305;Dracula: Dead and Loving It;4;2002-01-20
+4940;Dracula: Dead and Loving It;4;2002-05-21
+23;From Dusk Till Dawn;4;2001-01-02
+63;From Dusk Till Dawn;4;2001-01-14
+368;From Dusk Till Dawn;4;2001-01-09
+752;From Dusk Till Dawn;4;2001-07-30
+1101;From Dusk Till Dawn;4;2001-02-12
+1306;From Dusk Till Dawn;4;2001-11-24
+1551;From Dusk Till Dawn;4;2002-02-08
+1601;From Dusk Till Dawn;5;2001-01-03
+1611;From Dusk Till Dawn;4;2001-03-20
+1842;From Dusk Till Dawn;4;2001-07-29
+1889;From Dusk Till Dawn;4;2001-05-05
+1925;From Dusk Till Dawn;5;2002-07-06
+2910;From Dusk Till Dawn;5;2002-03-18
+4520;From Dusk Till Dawn;4;2001-05-26
+424;Addiction, The;4;2002-04-01
+1733;Addiction, The;4;2002-05-12
+2860;Addiction, The;4;2002-01-07
+195;Lord of Illusions;4;2001-01-14
+372;Lord of Illusions;5;2001-01-25
+678;Lord of Illusions;4;2001-05-07
+1889;Prophecy, The;4;2001-05-05
+343;Species;4;2002-04-28
+1101;Species;4;2001-01-24
+1302;Species;4;2001-06-23
+1451;Species;4;2002-05-31
+1969;Species;4;2001-03-15
+2077;Species;4;2001-01-21
+2820;Species;4;2001-01-18
+2985;Species;4;2002-08-22
+3648;Species;4;2001-07-10
+3792;Species;4;2001-01-25
+5473;Species;4;2002-02-01
+234;Interview with the Vampire;4;2001-01-11
+424;Interview with the Vampire;4;2002-04-01
+531;Interview with the Vampire;5;2001-01-08
+678;Interview with the Vampire;4;2001-05-07
+692;Interview with the Vampire;4;2001-01-01
+698;Interview with the Vampire;5;2002-03-02
+890;Interview with the Vampire;5;2001-08-13
+1051;Interview with the Vampire;5;2001-04-13
+1088;Interview with the Vampire;4;2002-01-17
+1101;Interview with the Vampire;5;2001-02-12
+1117;Interview with the Vampire;4;2001-09-21
+1165;Interview with the Vampire;5;2002-12-02
+1203;Interview with the Vampire;4;2001-08-19
+1260;Interview with the Vampire;4;2001-06-11
+1306;Interview with the Vampire;5;2002-07-15
+1425;Interview with the Vampire;4;2002-06-15
+1643;Interview with the Vampire;5;2002-01-23
+1755;Interview with the Vampire;4;2002-08-21
+1889;Interview with the Vampire;4;2001-05-05
+1925;Interview with the Vampire;4;2002-07-06
+2077;Interview with the Vampire;4;2001-01-20
+2887;Interview with the Vampire;4;2002-08-21
+2918;Interview with the Vampire;4;2001-09-06
+3055;Interview with the Vampire;4;2001-08-18
+3074;Interview with the Vampire;4;2001-02-18
+3509;Interview with the Vampire;5;2001-05-20
+3562;Interview with the Vampire;4;2002-06-13
+3695;Interview with the Vampire;4;2002-02-19
+4085;Interview with the Vampire;4;2001-04-01
+4520;Interview with the Vampire;4;2001-05-26
+4579;Interview with the Vampire;4;2001-12-17
+5054;Interview with the Vampire;4;2002-06-25
+5492;Interview with the Vampire;5;2001-08-07
+5787;Interview with the Vampire;4;2001-09-21
+678;Mary Shelley's Frankenstein;5;2001-05-07
+1088;Mary Shelley's Frankenstein;4;2001-05-03
+1101;Mary Shelley's Frankenstein;4;2001-02-12
+1524;Mary Shelley's Frankenstein;5;2001-02-04
+1643;Mary Shelley's Frankenstein;4;2002-01-23
+5387;Mary Shelley's Frankenstein;4;2001-10-23
+195;Tales From the Crypt Presents: Demon Knight;4;2001-03-26
+881;Tales From the Crypt Presents: Demon Knight;4;2002-02-12
+1524;Tales From the Crypt Presents: Demon Knight;4;2001-05-12
+2910;Tales From the Crypt Presents: Demon Knight;4;2002-03-18
+19;Tales from the Hood;4;2001-01-03
+195;Tales from the Hood;4;2002-08-03
+343;Village of the Damned;4;2001-04-29
+2909;Village of the Damned;4;2001-12-26
+531;Wes Craven's New Nightmare;4;2001-07-02
+678;Wes Craven's New Nightmare;4;2001-05-07
+1702;Wes Craven's New Nightmare;5;2001-01-31
+2910;Wes Craven's New Nightmare;4;2002-03-18
+1019;Wolf;4;2001-11-24
+1051;Wolf;4;2001-04-13
+1203;Wolf;4;2001-08-19
+2129;Wolf;4;2001-02-28
+4520;Wolf;4;2001-05-26
+698;In the Mouth of Madness;4;2002-03-02
+881;In the Mouth of Madness;5;2002-02-21
+1842;In the Mouth of Madness;4;2001-07-29
+3648;In the Mouth of Madness;4;2001-07-10
+4126;In the Mouth of Madness;4;2001-05-12
+1203;Body Snatchers;4;2001-08-19
+1643;Body Snatchers;4;2002-01-23
+2841;Body Snatchers;4;2001-02-21
+4933;Body Snatchers;4;2001-07-21
+1643;Robert A. Heinlein's The Puppet Masters;5;2002-01-23
+2841;Robert A. Heinlein's The Puppet Masters;4;2002-11-08
+840;Serial Mom;4;2001-07-13
+1519;Serial Mom;4;2001-05-13
+2116;Serial Mom;4;2001-02-24
+2129;Serial Mom;4;2001-02-28
+2918;Serial Mom;4;2001-09-06
+2926;Serial Mom;5;2001-11-24
+5172;Serial Mom;4;2001-03-04
+5792;Serial Mom;5;2001-09-20
+5841;Serial Mom;4;2001-05-14
+1203;Cronos;4;2001-08-19
+1530;Cronos;4;2001-03-19
+1717;Cronos;4;2001-12-24
+3163;Cronos;4;2001-01-26
+23;Heavy Metal;5;2001-01-02
+442;Heavy Metal;4;2001-08-07
+783;Heavy Metal;4;2001-03-12
+937;Heavy Metal;4;2001-06-05
+1101;Heavy Metal;4;2002-01-12
+1395;Heavy Metal;4;2002-04-21
+1593;Heavy Metal;4;2002-02-19
+1851;Heavy Metal;4;2001-06-01
+1969;Heavy Metal;4;2001-03-12
+3038;Heavy Metal;5;2002-04-05
+3274;Heavy Metal;4;2001-01-17
+5011;Heavy Metal;4;2002-09-08
+5054;Heavy Metal;4;2001-12-28
+355;Hellraiser: Bloodline;4;2001-02-20
+2910;Hellraiser: Bloodline;5;2002-03-18
+229;Craft, The;5;2002-12-10
+372;Craft, The;4;2001-01-25
+438;Craft, The;4;2001-01-30
+678;Craft, The;4;2001-05-07
+884;Craft, The;4;2001-08-23
+1125;Craft, The;4;2001-10-05
+1306;Craft, The;4;2002-07-19
+1425;Craft, The;4;2002-06-15
+3483;Craft, The;4;2001-04-03
+3562;Craft, The;4;2002-11-24
+3648;Craft, The;4;2001-07-10
+3992;Craft, The;4;2002-06-29
+4186;Craft, The;4;2002-04-04
+4940;Craft, The;4;2002-05-21
+1733;Cemetery Man (Dellamorte Dellamore);5;2002-05-12
+4508;Cemetery Man (Dellamorte Dellamore);5;2001-06-21
+372;Thinner;4;2001-01-25
+678;Thinner;4;2001-05-07
+1611;Thinner;4;2001-01-29
+2909;Thinner;4;2001-12-26
+4186;Thinner;4;2002-04-02
+678;Frighteners, The;4;2001-05-07
+884;Frighteners, The;4;2001-08-23
+1219;Frighteners, The;4;2001-01-02
+1524;Frighteners, The;4;2001-06-08
+1645;Frighteners, The;5;2001-04-25
+1834;Frighteners, The;4;2001-01-12
+1842;Frighteners, The;4;2001-06-24
+2077;Frighteners, The;4;2001-01-20
+2544;Frighteners, The;4;2002-06-23
+2820;Frighteners, The;4;2001-04-04
+2910;Frighteners, The;4;2002-03-18
+3002;Frighteners, The;4;2002-10-09
+3158;Frighteners, The;4;2001-06-20
+3503;Frighteners, The;4;2001-11-10
+4600;Frighteners, The;4;2002-05-21
+4610;Frighteners, The;4;2001-03-17
+5319;Frighteners, The;4;2002-08-27
+5571;Eyes Without a Face;4;2001-02-05
+678;Relic, The;4;2001-05-07
+1051;Relic, The;5;2001-04-13
+1088;Relic, The;4;2001-05-03
+1306;Relic, The;4;2002-02-24
+1447;Relic, The;4;2001-02-01
+2909;Halloween: The Curse of Michael Myers;4;2001-12-26
+23;Night of the Living Dead;4;2001-01-02
+699;Night of the Living Dead;5;2001-04-06
+710;Night of the Living Dead;4;2001-01-01
+770;Night of the Living Dead;4;2001-01-27
+881;Night of the Living Dead;4;2002-02-21
+937;Night of the Living Dead;4;2002-05-10
+1306;Night of the Living Dead;5;2001-12-22
+1369;Night of the Living Dead;4;2001-08-18
+1399;Night of the Living Dead;5;2001-12-17
+1425;Night of the Living Dead;5;2002-12-16
+1447;Night of the Living Dead;5;2001-02-01
+1611;Night of the Living Dead;5;2001-02-08
+1643;Night of the Living Dead;4;2002-01-23
+1834;Night of the Living Dead;4;2002-11-24
+1912;Night of the Living Dead;4;2002-03-01
+2131;Night of the Living Dead;5;2001-07-01
+2501;Night of the Living Dead;4;2001-07-12
+2781;Night of the Living Dead;4;2002-01-14
+2910;Night of the Living Dead;4;2002-03-18
+3038;Night of the Living Dead;5;2002-04-05
+3194;Night of the Living Dead;4;2001-01-08
+4829;Night of the Living Dead;4;2001-09-15
+4940;Night of the Living Dead;5;2002-05-21
+678;Fog, The;4;2001-04-30
+1611;Fog, The;4;2001-01-29
+2131;Fog, The;4;2001-07-01
+4277;Fog, The;4;2002-09-14
+5205;Fog, The;5;2001-01-12
+1611;Howling, The;4;2001-01-29
+1980;Howling, The;4;2001-09-04
+2129;Howling, The;4;2001-02-28
+3679;Howling, The;4;2001-02-06
+4277;Howling, The;4;2001-03-25
+5205;Howling, The;5;2001-01-12
+127;Alien;4;2002-06-02
+146;Alien;5;2001-01-19
+151;Alien;4;2001-06-21
+173;Alien;4;2001-01-24
+183;Alien;5;2002-04-20
+204;Alien;5;2001-03-05
+231;Alien;5;2001-06-26
+259;Alien;5;2001-01-13
+302;Alien;5;2002-02-18
+326;Alien;4;2001-01-21
+338;Alien;4;2001-04-24
+349;Alien;4;2001-11-16
+518;Alien;5;2002-11-21
+648;Alien;4;2002-08-24
+678;Alien;4;2001-01-05
+699;Alien;4;2001-04-04
+711;Alien;5;2001-01-27
+716;Alien;5;2001-02-22
+752;Alien;4;2002-07-02
+881;Alien;5;2002-02-21
+1137;Alien;4;2001-02-23
+1243;Alien;4;2001-01-08
+1306;Alien;4;2001-11-24
+1390;Alien;5;2002-03-15
+1395;Alien;5;2002-04-21
+1447;Alien;5;2001-02-01
+1455;Alien;4;2001-01-08
+1463;Alien;4;2001-12-06
+1491;Alien;4;2001-06-03
+1505;Alien;5;2001-03-03
+1699;Alien;5;2001-02-04
+1733;Alien;5;2002-05-12
+1851;Alien;4;2001-06-01
+1912;Alien;4;2002-06-03
+1930;Alien;4;2001-02-17
+1980;Alien;5;2001-08-31
+2041;Alien;4;2001-02-24
+2116;Alien;4;2001-01-22
+2129;Alien;4;2001-02-28
+2176;Alien;5;2002-12-08
+2190;Alien;4;2002-09-29
+2282;Alien;4;2001-02-22
+2453;Alien;4;2002-01-06
+2493;Alien;5;2001-02-09
+2641;Alien;4;2001-04-08
+2643;Alien;5;2002-09-06
+2648;Alien;4;2002-09-10
+2683;Alien;5;2001-01-19
+2756;Alien;5;2001-03-15
+2772;Alien;5;2001-02-01
+2784;Alien;4;2001-10-21
+2796;Alien;5;2001-08-08
+2841;Alien;4;2001-02-21
+2880;Alien;5;2001-05-05
+2898;Alien;5;2002-01-12
+2905;Alien;4;2002-07-27
+2910;Alien;4;2002-03-18
+2918;Alien;5;2002-06-04
+2969;Alien;5;2002-02-25
+2985;Alien;4;2002-08-19
+3011;Alien;4;2002-05-14
+3058;Alien;4;2001-07-02
+3079;Alien;5;2001-01-09
+3085;Alien;4;2001-08-20
+3259;Alien;5;2001-05-31
+3420;Alien;4;2001-05-11
+3462;Alien;4;2001-11-07
+3757;Alien;4;2002-01-01
+3792;Alien;4;2001-06-08
+3970;Alien;5;2002-04-19
+4305;Alien;5;2002-01-20
+4478;Alien;4;2001-03-06
+4765;Alien;4;2002-01-25
+4834;Alien;4;2001-02-02
+5102;Alien;5;2001-02-21
+5205;Alien;5;2001-01-12
+5242;Alien;4;2002-02-13
+5458;Alien;5;2001-10-28
+5475;Alien;4;2001-07-10
+5630;Alien;5;2001-01-26
+5682;Alien;4;2002-07-14
+19;Army of Darkness;5;2001-01-29
+23;Army of Darkness;4;2001-01-02
+173;Army of Darkness;4;2001-10-04
+195;Army of Darkness;4;2001-09-04
+514;Army of Darkness;4;2001-03-14
+937;Army of Darkness;5;2001-06-05
+953;Army of Darkness;5;2002-06-18
+1117;Army of Darkness;4;2001-09-21
+1265;Army of Darkness;4;2002-01-22
+1413;Army of Darkness;4;2001-08-24
+1447;Army of Darkness;4;2001-02-01
+1530;Army of Darkness;4;2001-03-29
+1560;Army of Darkness;4;2001-08-18
+1601;Army of Darkness;5;2001-01-03
+1611;Army of Darkness;5;2001-02-08
+1733;Army of Darkness;5;2002-05-12
+2023;Army of Darkness;4;2001-11-20
+2271;Army of Darkness;4;2001-07-01
+2342;Army of Darkness;5;2002-12-29
+2880;Army of Darkness;4;2001-05-05
+2910;Army of Darkness;5;2002-03-18
+3038;Army of Darkness;4;2002-02-14
+3688;Army of Darkness;5;2001-03-24
+4478;Army of Darkness;4;2001-03-07
+5242;Army of Darkness;4;2002-02-13
+5394;Army of Darkness;5;2001-01-31
+5654;Army of Darkness;4;2001-07-20
+5723;Army of Darkness;5;2001-08-29
+5761;Army of Darkness;4;2001-02-12
+19;Psycho;5;2001-01-03
+102;Psycho;5;2002-12-13
+127;Psycho;5;2001-11-17
+149;Psycho;5;2002-01-19
+173;Psycho;5;2001-01-24
+285;Psycho;5;2002-06-27
+355;Psycho;4;2001-01-04
+438;Psycho;4;2001-02-07
+529;Psycho;4;2001-02-12
+623;Psycho;5;2001-01-10
+699;Psycho;5;2001-04-06
+737;Psycho;4;2002-11-15
+755;Psycho;4;2001-08-14
+767;Psycho;4;2002-05-29
+791;Psycho;5;2001-01-31
+839;Psycho;5;2001-01-29
+874;Psycho;5;2001-12-30
+884;Psycho;5;2001-08-21
+1051;Psycho;5;2001-04-14
+1101;Psycho;5;2001-02-12
+1137;Psycho;5;2001-02-23
+1141;Psycho;4;2001-11-06
+1213;Psycho;5;2001-01-04
+1306;Psycho;5;2001-11-24
+1317;Psycho;4;2002-02-17
+1415;Psycho;4;2001-06-25
+1447;Psycho;5;2001-02-01
+1547;Psycho;4;2001-11-27
+1551;Psycho;4;2002-02-08
+1643;Psycho;5;2002-01-23
+1645;Psycho;5;2002-07-27
+1702;Psycho;5;2001-01-31
+1712;Psycho;4;2001-01-24
+1755;Psycho;5;2002-11-10
+1879;Psycho;4;2001-01-18
+1912;Psycho;5;2002-06-23
+2063;Psycho;4;2001-01-13
+2077;Psycho;5;2001-01-20
+2129;Psycho;5;2001-02-28
+2242;Psycho;4;2001-05-21
+2247;Psycho;5;2001-01-11
+2271;Psycho;5;2001-12-30
+2332;Psycho;5;2001-11-11
+2462;Psycho;4;2002-11-24
+2643;Psycho;4;2002-09-06
+2683;Psycho;5;2001-01-19
+2784;Psycho;5;2001-07-31
+2910;Psycho;5;2002-03-18
+2962;Psycho;4;2001-01-08
+2964;Psycho;5;2002-01-14
+3002;Psycho;4;2002-10-09
+3017;Psycho;4;2002-07-01
+3058;Psycho;5;2001-07-02
+3301;Psycho;5;2001-09-30
+3378;Psycho;5;2001-12-24
+3412;Psycho;4;2002-09-03
+3420;Psycho;4;2001-05-24
+3509;Psycho;4;2001-03-18
+3560;Psycho;4;2001-08-19
+3832;Psycho;5;2001-08-15
+3970;Psycho;4;2002-04-19
+3995;Psycho;4;2001-10-05
+4005;Psycho;5;2001-12-01
+4186;Psycho;4;2002-04-03
+4294;Psycho;5;2001-11-21
+4418;Psycho;4;2001-01-05
+4478;Psycho;4;2001-03-23
+4489;Psycho;5;2002-07-17
+4517;Psycho;4;2001-06-17
+4765;Psycho;4;2002-01-25
+4940;Psycho;5;2002-05-21
+5102;Psycho;5;2001-02-21
+5397;Psycho;4;2001-07-11
+5787;Psycho;5;2001-09-21
+5902;Psycho;4;2001-12-20
+6002;Psycho;5;2002-02-23
+302;Braindead;5;2001-01-28
+424;Braindead;5;2002-11-01
+1447;Braindead;4;2002-07-14
+1733;Braindead;5;2002-05-12
+1943;Braindead;4;2002-07-14
+2910;Braindead;5;2002-03-18
+442;Bad Taste;4;2001-01-05
+937;Bad Taste;4;2001-06-14
+1733;Bad Taste;5;2002-05-12
+2910;Bad Taste;4;2002-09-22
+19;Shining, The;5;2001-01-03
+23;Shining, The;4;2001-06-28
+33;Shining, The;5;2001-01-03
+116;Shining, The;5;2001-08-10
+195;Shining, The;4;2002-05-31
+231;Shining, The;5;2002-08-23
+302;Shining, The;4;2002-02-18
+319;Shining, The;4;2001-08-03
+329;Shining, The;4;2001-01-19
+331;Shining, The;4;2001-09-13
+338;Shining, The;4;2001-04-24
+372;Shining, The;5;2001-01-25
+442;Shining, The;5;2001-01-02
+518;Shining, The;4;2001-01-03
+588;Shining, The;4;2001-03-26
+692;Shining, The;4;2001-01-27
+698;Shining, The;5;2002-03-02
+699;Shining, The;5;2001-04-06
+791;Shining, The;4;2001-02-12
+839;Shining, The;5;2001-07-08
+874;Shining, The;4;2001-12-30
+884;Shining, The;5;2001-08-21
+897;Shining, The;4;2001-08-12
+937;Shining, The;5;2001-07-13
+953;Shining, The;5;2001-09-06
+1087;Shining, The;4;2001-05-22
+1137;Shining, The;5;2001-02-23
+1265;Shining, The;4;2001-09-20
+1266;Shining, The;4;2001-01-05
+1390;Shining, The;4;2002-04-15
+1484;Shining, The;5;2001-08-14
+1547;Shining, The;4;2001-12-03
+1624;Shining, The;4;2001-08-24
+1643;Shining, The;5;2001-07-20
+1712;Shining, The;4;2002-01-27
+1717;Shining, The;5;2001-01-22
+1776;Shining, The;4;2001-03-20
+1851;Shining, The;4;2001-08-21
+1879;Shining, The;5;2001-01-18
+1912;Shining, The;4;2002-01-11
+1925;Shining, The;5;2002-07-06
+1958;Shining, The;4;2001-09-08
+1969;Shining, The;5;2001-03-15
+2047;Shining, The;4;2001-08-23
+2050;Shining, The;4;2001-08-04
+2077;Shining, The;5;2001-01-20
+2122;Shining, The;4;2001-08-06
+2129;Shining, The;4;2001-02-28
+2507;Shining, The;4;2001-04-23
+2544;Shining, The;4;2001-01-06
+2621;Shining, The;4;2002-03-23
+2760;Shining, The;4;2001-08-26
+2847;Shining, The;5;2002-11-30
+2947;Shining, The;4;2002-11-19
+3041;Shining, The;5;2001-09-04
+3057;Shining, The;4;2001-10-17
+3203;Shining, The;5;2001-07-01
+3301;Shining, The;5;2001-09-09
+3371;Shining, The;4;2002-04-29
+3411;Shining, The;4;2001-01-06
+3420;Shining, The;5;2001-05-11
+3464;Shining, The;5;2001-07-20
+3475;Shining, The;4;2002-03-16
+3503;Shining, The;5;2002-01-23
+3560;Shining, The;5;2001-08-19
+3768;Shining, The;5;2001-04-13
+4107;Shining, The;5;2001-01-06
+4118;Shining, The;5;2001-02-28
+4478;Shining, The;4;2001-03-07
+4517;Shining, The;4;2001-05-28
+4520;Shining, The;5;2001-05-26
+4611;Shining, The;5;2001-07-20
+4757;Shining, The;5;2001-01-06
+4834;Shining, The;4;2001-12-29
+4940;Shining, The;4;2002-05-21
+5205;Shining, The;5;2001-01-12
+5317;Shining, The;5;2001-08-14
+5557;Shining, The;5;2001-06-24
+5630;Shining, The;4;2001-01-26
+5733;Shining, The;4;2001-04-07
+5734;Shining, The;4;2001-02-28
+5787;Shining, The;4;2001-09-21
+5996;Shining, The;5;2002-04-29
+6040;Shining, The;4;2001-08-10
+173;Evil Dead II (Dead By Dawn);4;2001-10-04
+195;Evil Dead II (Dead By Dawn);4;2001-09-01
+338;Evil Dead II (Dead By Dawn);4;2001-04-24
+1447;Evil Dead II (Dead By Dawn);5;2001-02-01
+1611;Evil Dead II (Dead By Dawn);5;2001-01-29
+1733;Evil Dead II (Dead By Dawn);5;2002-05-12
+2020;Evil Dead II (Dead By Dawn);4;2001-01-29
+2342;Evil Dead II (Dead By Dawn);5;2002-12-29
+2910;Evil Dead II (Dead By Dawn);5;2002-03-18
+3038;Evil Dead II (Dead By Dawn);5;2002-02-14
+3507;Evil Dead II (Dead By Dawn);4;2001-02-17
+3620;Evil Dead II (Dead By Dawn);4;2002-01-02
+3953;Evil Dead II (Dead By Dawn);4;2002-08-23
+3970;Evil Dead II (Dead By Dawn);4;2002-04-19
+5205;Evil Dead II (Dead By Dawn);5;2001-01-12
+5654;Evil Dead II (Dead By Dawn);4;2001-07-20
+5761;Evil Dead II (Dead By Dawn);5;2001-02-12
+5938;Evil Dead II (Dead By Dawn);4;2001-10-05
+19;Young Frankenstein;5;2001-01-03
+123;Young Frankenstein;4;2001-01-12
+146;Young Frankenstein;5;2001-01-19
+192;Young Frankenstein;4;2002-07-16
+204;Young Frankenstein;5;2001-03-05
+235;Young Frankenstein;4;2002-01-05
+271;Young Frankenstein;5;2001-01-18
+285;Young Frankenstein;5;2002-06-27
+343;Young Frankenstein;5;2001-07-24
+411;Young Frankenstein;4;2001-01-02
+678;Young Frankenstein;4;2001-01-05
+692;Young Frankenstein;5;2001-01-27
+699;Young Frankenstein;5;2001-04-05
+752;Young Frankenstein;4;2002-08-14
+755;Young Frankenstein;4;2001-08-14
+791;Young Frankenstein;4;2001-02-09
+840;Young Frankenstein;5;2001-07-11
+881;Young Frankenstein;4;2002-02-12
+1051;Young Frankenstein;5;2001-04-14
+1087;Young Frankenstein;5;2001-05-22
+1088;Young Frankenstein;4;2002-11-13
+1141;Young Frankenstein;5;2001-11-06
+1182;Young Frankenstein;4;2001-08-08
+1186;Young Frankenstein;5;2001-01-11
+1243;Young Frankenstein;5;2001-01-16
+1306;Young Frankenstein;5;2001-12-24
+1390;Young Frankenstein;5;2002-04-15
+1415;Young Frankenstein;5;2001-06-25
+1425;Young Frankenstein;5;2001-01-21
+1457;Young Frankenstein;4;2001-03-01
+1500;Young Frankenstein;5;2001-04-25
+1505;Young Frankenstein;5;2001-03-04
+1579;Young Frankenstein;4;2002-07-17
+1643;Young Frankenstein;5;2002-01-23
+1712;Young Frankenstein;4;2001-01-24
+1897;Young Frankenstein;4;2002-02-20
+1925;Young Frankenstein;4;2002-07-06
+1943;Young Frankenstein;4;2001-07-10
+2041;Young Frankenstein;4;2001-01-03
+2127;Young Frankenstein;4;2001-02-13
+2131;Young Frankenstein;4;2001-07-01
+2168;Young Frankenstein;5;2001-02-16
+2247;Young Frankenstein;5;2001-01-11
+2683;Young Frankenstein;5;2001-01-19
+2880;Young Frankenstein;4;2001-05-06
+2944;Young Frankenstein;5;2002-01-16
+3017;Young Frankenstein;4;2002-07-01
+3018;Young Frankenstein;4;2001-01-31
+3058;Young Frankenstein;5;2001-07-02
+3158;Young Frankenstein;4;2001-06-21
+3833;Young Frankenstein;5;2001-02-07
+4107;Young Frankenstein;5;2001-01-06
+4273;Young Frankenstein;5;2001-05-05
+4418;Young Frankenstein;4;2002-04-06
+4478;Young Frankenstein;4;2001-03-07
+4579;Young Frankenstein;5;2001-07-28
+4610;Young Frankenstein;4;2001-03-17
+4940;Young Frankenstein;5;2002-05-21
+5054;Young Frankenstein;5;2001-12-28
+5205;Young Frankenstein;5;2001-01-12
+5394;Young Frankenstein;4;2001-01-28
+5424;Young Frankenstein;4;2001-07-13
+5571;Young Frankenstein;4;2001-02-05
+5654;Young Frankenstein;4;2001-07-20
+5723;Young Frankenstein;4;2001-08-29
+5787;Young Frankenstein;5;2001-09-21
+231;Alien³;4;2001-08-05
+678;Alien³;4;2001-05-07
+716;Alien³;4;2001-02-22
+890;Alien³;5;2001-08-13
+1447;Alien³;4;2001-02-01
+1733;Alien³;5;2002-05-12
+1860;Alien³;4;2001-01-06
+1925;Alien³;4;2002-07-06
+2683;Alien³;5;2001-01-19
+2793;Alien³;4;2001-05-16
+3401;Alien³;4;2001-01-21
+4126;Alien³;4;2001-12-24
+4520;Alien³;4;2001-05-26
+5053;Alien³;5;2001-04-21
+19;American Werewolf in London, An;4;2001-01-03
+146;American Werewolf in London, An;4;2001-01-19
+148;American Werewolf in London, An;4;2001-01-15
+149;American Werewolf in London, An;4;2001-10-27
+195;American Werewolf in London, An;4;2001-08-18
+329;American Werewolf in London, An;4;2001-02-17
+678;American Werewolf in London, An;4;2001-04-16
+791;American Werewolf in London, An;4;2001-02-12
+1203;American Werewolf in London, An;5;2001-06-16
+1260;American Werewolf in London, An;4;2001-10-25
+1354;American Werewolf in London, An;5;2001-10-29
+1390;American Werewolf in London, An;4;2001-11-30
+1395;American Werewolf in London, An;4;2002-03-05
+1593;American Werewolf in London, An;4;2002-02-19
+1597;American Werewolf in London, An;4;2001-06-28
+1643;American Werewolf in London, An;5;2002-01-23
+1812;American Werewolf in London, An;4;2001-08-17
+1842;American Werewolf in London, An;4;2001-07-29
+1897;American Werewolf in London, An;4;2001-11-24
+1925;American Werewolf in London, An;5;2002-07-06
+1941;American Werewolf in London, An;4;2001-05-07
+2129;American Werewolf in London, An;4;2001-02-28
+2131;American Werewolf in London, An;4;2001-07-01
+2272;American Werewolf in London, An;4;2001-11-12
+2781;American Werewolf in London, An;5;2001-05-11
+2910;American Werewolf in London, An;5;2002-03-18
+2969;American Werewolf in London, An;4;2001-12-20
+3203;American Werewolf in London, An;4;2001-09-20
+3391;American Werewolf in London, An;4;2001-04-27
+3410;American Werewolf in London, An;4;2001-01-13
+3679;American Werewolf in London, An;4;2001-02-06
+4258;American Werewolf in London, An;4;2002-11-26
+4277;American Werewolf in London, An;4;2001-10-01
+4520;American Werewolf in London, An;4;2002-02-22
+4579;American Werewolf in London, An;4;2001-11-09
+4950;American Werewolf in London, An;4;2001-11-02
+5205;American Werewolf in London, An;4;2001-01-12
+5493;American Werewolf in London, An;4;2001-10-26
+5792;American Werewolf in London, An;4;2001-09-20
+2909;Amityville II: The Possession;5;2001-12-26
+678;Amityville Horror, The;4;2001-05-10
+1317;Amityville Horror, The;4;2002-02-17
+1980;Amityville Horror, The;4;2001-09-04
+3055;Amityville Horror, The;5;2002-05-16
+4305;Amityville Horror, The;4;2002-01-11
+4520;Amityville Horror, The;4;2001-05-26
+5621;Amityville Horror, The;4;2002-01-02
+2909;Amityville Curse, The;4;2001-12-26
+1643;Blood For Dracula (Andy Warhol's Dracula);5;2002-01-23
+4305;Blood For Dracula (Andy Warhol's Dracula);4;2002-01-20
+937;April Fool's Day;4;2002-10-28
+1980;April Fool's Day;4;2001-09-04
+2910;April Fool's Day;4;2002-03-18
+3420;April Fool's Day;4;2001-05-24
+1137;Audrey Rose;4;2001-02-23
+1451;Audrey Rose;4;2002-12-27
+3055;Audrey Rose;4;2002-05-16
+2962;Believers, The;4;2001-01-08
+33;Birds, The;5;2001-01-03
+123;Birds, The;4;2001-01-12
+173;Birds, The;4;2001-12-29
+208;Birds, The;4;2001-03-13
+411;Birds, The;4;2001-01-02
+442;Birds, The;4;2001-01-02
+518;Birds, The;5;2001-01-03
+623;Birds, The;5;2001-01-10
+692;Birds, The;4;2001-01-27
+696;Birds, The;5;2001-01-13
+699;Birds, The;4;2001-04-06
+791;Birds, The;4;2001-02-12
+874;Birds, The;5;2001-12-30
+884;Birds, The;5;2001-08-23
+1051;Birds, The;4;2002-10-26
+1087;Birds, The;5;2001-05-22
+1088;Birds, The;4;2001-03-04
+1101;Birds, The;4;2001-02-12
+1260;Birds, The;4;2001-04-16
+1348;Birds, The;4;2001-02-21
+1390;Birds, The;5;2002-04-15
+1457;Birds, The;4;2001-03-01
+1556;Birds, The;4;2001-11-03
+1628;Birds, The;4;2001-01-06
+1643;Birds, The;5;2002-01-23
+1645;Birds, The;5;2002-07-27
+1748;Birds, The;5;2002-08-16
+1842;Birds, The;4;2001-07-29
+1890;Birds, The;4;2001-02-11
+1897;Birds, The;4;2002-04-01
+1925;Birds, The;5;2002-07-06
+1978;Birds, The;4;2001-06-30
+2041;Birds, The;4;2001-02-24
+2063;Birds, The;4;2002-02-03
+2129;Birds, The;5;2001-02-28
+2176;Birds, The;5;2002-01-02
+2648;Birds, The;4;2002-09-10
+2683;Birds, The;5;2001-01-19
+2859;Birds, The;5;2002-07-22
+3018;Birds, The;4;2001-02-20
+3420;Birds, The;5;2001-05-24
+3503;Birds, The;5;2001-11-10
+3768;Birds, The;5;2001-04-13
+3970;Birds, The;4;2002-04-19
+4118;Birds, The;5;2001-02-28
+4294;Birds, The;4;2001-11-21
+4465;Birds, The;4;2001-06-29
+4579;Birds, The;5;2001-07-28
+5539;Birds, The;4;2001-03-15
+5571;Birds, The;4;2001-02-05
+6040;Birds, The;4;2001-08-10
+424;Blob, The;4;2002-04-01
+1088;Blob, The;4;2001-05-11
+1186;Blob, The;4;2001-01-12
+2063;Blob, The;4;2001-01-13
+2638;Blob, The;4;2001-01-23
+4520;Blob, The;4;2002-02-22
+3768;Body Snatcher, The;4;2001-04-13
+10;Bram Stoker's Dracula;5;2001-01-10
+19;Bram Stoker's Dracula;4;2001-01-03
+33;Bram Stoker's Dracula;5;2001-01-08
+44;Bram Stoker's Dracula;4;2001-10-29
+137;Bram Stoker's Dracula;4;2001-09-18
+343;Bram Stoker's Dracula;4;2002-01-06
+355;Bram Stoker's Dracula;5;2001-01-04
+518;Bram Stoker's Dracula;5;2001-01-30
+531;Bram Stoker's Dracula;4;2001-01-10
+667;Bram Stoker's Dracula;4;2001-12-11
+691;Bram Stoker's Dracula;4;2002-01-13
+692;Bram Stoker's Dracula;4;2001-01-13
+699;Bram Stoker's Dracula;4;2001-04-06
+937;Bram Stoker's Dracula;4;2001-12-29
+1020;Bram Stoker's Dracula;4;2002-01-18
+1088;Bram Stoker's Dracula;4;2001-05-11
+1101;Bram Stoker's Dracula;4;2001-02-12
+1113;Bram Stoker's Dracula;4;2001-01-27
+1260;Bram Stoker's Dracula;4;2001-06-11
+1266;Bram Stoker's Dracula;4;2001-01-05
+1447;Bram Stoker's Dracula;4;2001-02-01
+1451;Bram Stoker's Dracula;5;2002-08-22
+1712;Bram Stoker's Dracula;4;2002-01-26
+1755;Bram Stoker's Dracula;4;2002-11-22
+1842;Bram Stoker's Dracula;5;2001-06-25
+1879;Bram Stoker's Dracula;4;2001-01-18
+2643;Bram Stoker's Dracula;4;2002-09-06
+3041;Bram Stoker's Dracula;4;2002-01-04
+3158;Bram Stoker's Dracula;5;2001-06-20
+3420;Bram Stoker's Dracula;5;2001-05-10
+3503;Bram Stoker's Dracula;4;2002-01-09
+3571;Bram Stoker's Dracula;4;2001-01-17
+3746;Bram Stoker's Dracula;4;2002-03-04
+4085;Bram Stoker's Dracula;4;2001-04-01
+4305;Bram Stoker's Dracula;4;2002-01-11
+4520;Bram Stoker's Dracula;4;2001-05-26
+4579;Bram Stoker's Dracula;4;2001-12-17
+4950;Bram Stoker's Dracula;4;2002-01-20
+5001;Bram Stoker's Dracula;5;2002-04-28
+5329;Bram Stoker's Dracula;4;2002-03-02
+5394;Bram Stoker's Dracula;4;2001-11-27
+146;Bride of Frankenstein;4;2002-01-10
+699;Bride of Frankenstein;4;2001-04-06
+721;Bride of Frankenstein;4;2001-07-02
+1274;Bride of Frankenstein;5;2002-02-01
+1717;Bride of Frankenstein;5;2001-12-25
+1980;Bride of Frankenstein;4;2001-08-31
+3018;Bride of Frankenstein;4;2001-02-20
+4005;Bride of Frankenstein;4;2001-12-01
+4579;Bride of Frankenstein;4;2001-11-09
+5054;Bride of Frankenstein;4;2002-08-23
+1925;Burnt Offerings;4;2002-07-06
+4448;Burnt Offerings;5;2001-04-02
+195;Candyman;4;2001-01-14
+424;Candyman;4;2002-04-01
+1451;Candyman;4;2002-03-14
+1611;Candyman;4;2001-01-29
+3648;Candyman;4;2001-07-10
+4085;Candyman;4;2001-04-01
+146;Carrie;4;2001-01-19
+208;Carrie;4;2001-03-13
+678;Carrie;4;2001-05-10
+692;Carrie;4;2001-01-27
+791;Carrie;4;2001-02-12
+884;Carrie;5;2001-08-23
+1051;Carrie;5;2001-04-14
+1137;Carrie;4;2001-02-23
+1369;Carrie;4;2001-08-18
+1390;Carrie;4;2002-04-15
+1425;Carrie;4;2001-01-31
+1458;Carrie;5;2001-08-17
+1628;Carrie;4;2001-01-06
+1643;Carrie;5;2002-01-23
+1980;Carrie;4;2001-08-31
+2114;Carrie;4;2001-10-19
+2129;Carrie;5;2001-02-28
+2353;Carrie;5;2002-05-03
+2544;Carrie;5;2002-06-23
+2781;Carrie;5;2001-05-11
+3018;Carrie;4;2001-02-20
+3053;Carrie;5;2002-01-24
+3420;Carrie;4;2001-05-11
+4418;Carrie;5;2002-04-06
+5054;Carrie;4;2001-12-28
+5205;Carrie;4;2001-01-12
+5812;Carrie;4;2001-06-09
+678;Cat People;4;2001-04-30
+2129;Cat People;4;2001-02-28
+4277;Cat People;4;2002-09-14
+195;Nightmare on Elm Street, A;4;2001-01-30
+208;Nightmare on Elm Street, A;5;2001-03-13
+531;Nightmare on Elm Street, A;4;2001-07-02
+678;Nightmare on Elm Street, A;5;2001-04-16
+710;Nightmare on Elm Street, A;4;2001-01-01
+1447;Nightmare on Elm Street, A;4;2002-02-17
+1969;Nightmare on Elm Street, A;4;2001-03-15
+2063;Nightmare on Elm Street, A;4;2001-07-14
+2077;Nightmare on Elm Street, A;4;2001-01-20
+2129;Nightmare on Elm Street, A;4;2001-02-28
+2131;Nightmare on Elm Street, A;4;2001-07-01
+2910;Nightmare on Elm Street, A;5;2002-03-18
+3420;Nightmare on Elm Street, A;5;2001-05-11
+3768;Nightmare on Elm Street, A;4;2001-04-13
+4258;Nightmare on Elm Street, A;4;2002-11-26
+4520;Nightmare on Elm Street, A;4;2001-05-26
+5205;Nightmare on Elm Street, A;5;2001-01-12
+5682;Nightmare on Elm Street, A;5;2002-07-14
+195;Nosferatu (Nosferatu, eine Symphonie des Grauens);5;2002-04-18
+671;Nosferatu (Nosferatu, eine Symphonie des Grauens);5;2001-04-08
+839;Nosferatu (Nosferatu, eine Symphonie des Grauens);4;2001-07-08
+874;Nosferatu (Nosferatu, eine Symphonie des Grauens);5;2001-12-30
+1051;Nosferatu (Nosferatu, eine Symphonie des Grauens);5;2001-04-28
+1266;Nosferatu (Nosferatu, eine Symphonie des Grauens);4;2001-01-11
+1274;Nosferatu (Nosferatu, eine Symphonie des Grauens);5;2001-01-29
+1303;Nosferatu (Nosferatu, eine Symphonie des Grauens);4;2001-02-09
+1389;Nosferatu (Nosferatu, eine Symphonie des Grauens);5;2002-11-25
+1447;Nosferatu (Nosferatu, eine Symphonie des Grauens);5;2001-02-01
+1539;Nosferatu (Nosferatu, eine Symphonie des Grauens);4;2001-02-05
+1556;Nosferatu (Nosferatu, eine Symphonie des Grauens);5;2001-04-21
+1699;Nosferatu (Nosferatu, eine Symphonie des Grauens);5;2001-01-21
+1717;Nosferatu (Nosferatu, eine Symphonie des Grauens);5;2001-05-16
+1733;Nosferatu (Nosferatu, eine Symphonie des Grauens);4;2001-06-06
+1941;Nosferatu (Nosferatu, eine Symphonie des Grauens);4;2001-05-07
+2077;Nosferatu (Nosferatu, eine Symphonie des Grauens);4;2001-02-05
+2172;Nosferatu (Nosferatu, eine Symphonie des Grauens);4;2002-02-22
+2246;Nosferatu (Nosferatu, eine Symphonie des Grauens);5;2001-08-17
+2529;Nosferatu (Nosferatu, eine Symphonie des Grauens);5;2001-11-13
+2781;Nosferatu (Nosferatu, eine Symphonie des Grauens);5;2001-05-11
+2878;Nosferatu (Nosferatu, eine Symphonie des Grauens);4;2001-02-04
+2907;Nosferatu (Nosferatu, eine Symphonie des Grauens);4;2001-03-09
+3054;Nosferatu (Nosferatu, eine Symphonie des Grauens);4;2001-04-08
+3259;Nosferatu (Nosferatu, eine Symphonie des Grauens);4;2002-11-18
+3507;Nosferatu (Nosferatu, eine Symphonie des Grauens);5;2001-02-17
+4823;Nosferatu (Nosferatu, eine Symphonie des Grauens);4;2001-03-31
+5329;Nosferatu (Nosferatu, eine Symphonie des Grauens);5;2001-03-05
+5397;Nosferatu (Nosferatu, eine Symphonie des Grauens);4;2002-12-11
+5675;Nosferatu (Nosferatu, eine Symphonie des Grauens);4;2001-06-12
+5787;Nosferatu (Nosferatu, eine Symphonie des Grauens);4;2001-09-21
+4418;Nosferatu a Venezia;4;2001-01-05
+19;Omen, The;4;2001-01-03
+343;Omen, The;5;2002-09-22
+424;Omen, The;5;2002-04-01
+678;Omen, The;4;2001-05-10
+1051;Omen, The;4;2002-10-26
+1120;Omen, The;4;2001-11-26
+1137;Omen, The;5;2001-02-23
+1260;Omen, The;4;2001-04-16
+1390;Omen, The;4;2002-04-15
+1643;Omen, The;5;2002-01-23
+1712;Omen, The;5;2001-01-24
+1733;Omen, The;4;2001-03-01
+1980;Omen, The;4;2001-09-04
+2898;Omen, The;5;2002-01-12
+3018;Omen, The;4;2001-02-20
+3560;Omen, The;4;2001-08-19
+5054;Omen, The;4;2001-12-28
+5205;Omen, The;4;2001-01-12
+5996;Omen, The;4;2002-04-29
+372;Nightwatch;5;2001-01-25
+4697;Nightwatch;5;2001-04-04
+19;Jaws;5;2001-01-03
+36;Jaws;5;2002-03-11
+65;Jaws;4;2001-04-06
+127;Jaws;5;2001-11-17
+237;Jaws;4;2001-09-23
+299;Jaws;4;2001-08-22
+302;Jaws;5;2002-02-18
+314;Jaws;5;2002-01-03
+319;Jaws;4;2001-10-12
+326;Jaws;4;2001-01-21
+338;Jaws;4;2001-04-24
+343;Jaws;5;2002-08-18
+355;Jaws;4;2001-01-04
+438;Jaws;5;2001-02-07
+442;Jaws;5;2001-01-02
+531;Jaws;4;2001-07-02
+692;Jaws;4;2001-01-01
+698;Jaws;4;2002-03-02
+716;Jaws;4;2001-02-22
+737;Jaws;4;2002-01-20
+752;Jaws;4;2002-08-14
+755;Jaws;5;2001-08-14
+791;Jaws;5;2001-02-12
+829;Jaws;5;2001-04-12
+874;Jaws;4;2001-12-30
+884;Jaws;5;2001-08-21
+937;Jaws;4;2001-06-05
+1051;Jaws;5;2001-04-14
+1088;Jaws;4;2002-11-13
+1120;Jaws;4;2001-03-18
+1194;Jaws;5;2002-11-03
+1243;Jaws;4;2001-01-16
+1246;Jaws;5;2002-08-13
+1266;Jaws;4;2001-01-03
+1306;Jaws;4;2001-12-04
+1390;Jaws;5;2001-06-05
+1425;Jaws;5;2002-06-15
+1426;Jaws;4;2001-01-02
+1447;Jaws;5;2001-02-01
+1458;Jaws;5;2001-08-17
+1505;Jaws;4;2001-03-03
+1560;Jaws;5;2001-08-18
+1699;Jaws;4;2001-02-04
+1712;Jaws;5;2001-01-24
+1717;Jaws;4;2001-08-10
+1723;Jaws;5;2001-03-04
+1733;Jaws;5;2002-05-12
+1912;Jaws;5;2002-06-02
+1925;Jaws;5;2002-07-06
+2041;Jaws;5;2001-02-24
+2114;Jaws;5;2001-10-19
+2129;Jaws;5;2001-02-28
+2131;Jaws;5;2001-02-11
+2176;Jaws;5;2001-07-26
+2232;Jaws;5;2001-01-01
+2683;Jaws;5;2001-01-19
+2772;Jaws;5;2001-03-06
+2781;Jaws;5;2001-05-11
+2898;Jaws;4;2002-01-12
+2985;Jaws;5;2002-08-28
+3038;Jaws;5;2002-02-14
+3055;Jaws;5;2001-08-18
+3079;Jaws;5;2001-01-09
+3080;Jaws;4;2002-01-18
+3085;Jaws;4;2001-08-20
+3412;Jaws;5;2002-09-03
+3824;Jaws;5;2001-06-07
+3970;Jaws;4;2002-04-19
+4005;Jaws;5;2001-12-01
+4116;Jaws;4;2001-10-06
+4418;Jaws;4;2002-04-06
+4489;Jaws;4;2002-07-17
+4520;Jaws;4;2001-05-26
+4834;Jaws;4;2001-07-20
+5102;Jaws;4;2001-02-21
+5317;Jaws;4;2001-08-17
+5458;Jaws;5;2002-01-06
+5682;Jaws;5;2002-07-17
+5787;Jaws;4;2001-09-21
+5831;Jaws;5;2001-02-18
+5998;Jaws;5;2001-09-15
+6002;Jaws;5;2002-02-23
+116;Jaws 2;4;2001-08-10
+639;Jaws 2;4;2001-03-10
+1194;Jaws 2;4;2002-11-03
+2131;Jaws 2;4;2001-02-11
+2641;Jaws 2;4;2001-07-01
+63;Scream;5;2001-01-21
+208;Scream;4;2001-03-13
+259;Scream;4;2001-01-13
+308;Scream;4;2001-07-22
+372;Scream;5;2001-01-25
+531;Scream;5;2001-01-05
+698;Scream;4;2002-03-02
+767;Scream;4;2002-05-29
+840;Scream;4;2001-07-13
+1079;Scream;4;2001-04-11
+1088;Scream;4;2001-01-10
+1137;Scream;5;2001-02-23
+1266;Scream;4;2001-01-05
+1317;Scream;4;2002-01-22
+1329;Scream;4;2001-01-03
+1426;Scream;4;2002-06-12
+1524;Scream;5;2001-02-04
+1712;Scream;4;2002-01-27
+2023;Scream;4;2001-07-30
+2041;Scream;4;2001-10-26
+2077;Scream;5;2001-01-20
+2129;Scream;4;2001-02-28
+2453;Scream;4;2001-01-02
+2688;Scream;4;2001-01-06
+2841;Scream;4;2001-03-14
+2847;Scream;4;2002-08-10
+2910;Scream;5;2002-03-18
+2926;Scream;4;2001-11-24
+2947;Scream;4;2002-11-19
+2962;Scream;4;2001-01-08
+3420;Scream;5;2001-05-10
+3503;Scream;4;2001-11-10
+4126;Scream;4;2002-04-03
+5054;Scream;4;2002-10-29
+5492;Scream;4;2001-08-01
+5938;Scream;4;2001-10-05
+753;Wishmaster;4;2002-12-29
+1051;Wishmaster;4;2001-04-13
+2910;Wishmaster;4;2002-03-18
+372;I Know What You Did Last Summer;5;2001-01-25
+753;I Know What You Did Last Summer;4;2002-01-27
+884;I Know What You Did Last Summer;5;2001-08-23
+970;I Know What You Did Last Summer;4;2001-01-27
+1302;I Know What You Did Last Summer;4;2001-06-23
+1524;I Know What You Did Last Summer;4;2001-02-04
+2395;I Know What You Did Last Summer;4;2001-07-09
+2887;I Know What You Did Last Summer;4;2002-08-21
+3792;I Know What You Did Last Summer;4;2001-01-19
+4085;I Know What You Did Last Summer;4;2001-04-01
+4520;I Know What You Did Last Summer;4;2001-05-26
+5492;I Know What You Did Last Summer;4;2001-08-01
+5605;I Know What You Did Last Summer;5;2001-04-15
+19;Devil's Advocate, The;4;2001-01-03
+90;Devil's Advocate, The;4;2001-06-29
+137;Devil's Advocate, The;4;2001-09-18
+343;Devil's Advocate, The;5;2001-10-28
+438;Devil's Advocate, The;4;2001-01-30
+531;Devil's Advocate, The;4;2001-01-05
+716;Devil's Advocate, The;5;2001-01-05
+869;Devil's Advocate, The;4;2001-09-01
+904;Devil's Advocate, The;4;2001-01-22
+970;Devil's Advocate, The;4;2001-01-27
+1101;Devil's Advocate, The;4;2001-02-12
+1194;Devil's Advocate, The;4;2002-11-03
+1447;Devil's Advocate, The;5;2001-02-01
+1561;Devil's Advocate, The;4;2002-06-15
+1643;Devil's Advocate, The;4;2002-01-23
+1842;Devil's Advocate, The;4;2001-07-29
+1925;Devil's Advocate, The;4;2002-07-06
+2077;Devil's Advocate, The;5;2001-01-20
+2276;Devil's Advocate, The;4;2001-01-06
+2395;Devil's Advocate, The;4;2001-02-12
+2781;Devil's Advocate, The;4;2001-05-11
+2841;Devil's Advocate, The;4;2001-03-04
+3462;Devil's Advocate, The;4;2001-08-31
+3471;Devil's Advocate, The;5;2002-12-14
+3509;Devil's Advocate, The;4;2001-03-28
+3620;Devil's Advocate, The;4;2002-01-02
+3648;Devil's Advocate, The;5;2001-07-10
+3992;Devil's Advocate, The;4;2002-06-29
+4117;Devil's Advocate, The;5;2001-01-12
+4489;Devil's Advocate, The;5;2001-01-30
+4520;Devil's Advocate, The;4;2001-05-26
+5096;Devil's Advocate, The;4;2001-06-12
+5473;Devil's Advocate, The;5;2002-02-01
+5492;Devil's Advocate, The;5;2001-08-07
+2910;Phantoms;5;2002-03-18
+23;Alien: Resurrection;5;2001-01-02
+424;Alien: Resurrection;4;2002-05-07
+678;Alien: Resurrection;4;2001-05-07
+716;Alien: Resurrection;4;2001-02-22
+1395;Alien: Resurrection;4;2002-04-21
+1447;Alien: Resurrection;4;2001-02-01
+1601;Alien: Resurrection;5;2001-01-03
+2239;Alien: Resurrection;4;2001-04-09
+2683;Alien: Resurrection;4;2001-01-19
+2808;Alien: Resurrection;4;2001-06-07
+3085;Alien: Resurrection;4;2001-08-20
+3158;Alien: Resurrection;4;2002-06-25
+3401;Alien: Resurrection;4;2001-01-21
+3695;Alien: Resurrection;4;2001-10-22
+4489;Alien: Resurrection;4;2001-01-30
+4610;Alien: Resurrection;5;2001-03-17
+5053;Alien: Resurrection;4;2001-04-21
+5054;Alien: Resurrection;4;2002-06-25
+372;Scream 2;5;2001-01-25
+424;Scream 2;4;2002-03-21
+438;Scream 2;4;2001-01-30
+1306;Scream 2;4;2002-01-23
+1317;Scream 2;4;2002-01-22
+1426;Scream 2;4;2002-06-12
+1524;Scream 2;4;2001-02-04
+1579;Scream 2;4;2001-03-20
+2129;Scream 2;4;2001-02-28
+2910;Scream 2;5;2002-03-18
+4085;Scream 2;4;2001-04-01
+4126;Scream 2;4;2002-04-03
+5492;Scream 2;4;2001-08-01
+19;Prophecy II, The;4;2001-01-03
+372;Deep Rising;5;2001-01-25
+1306;Deep Rising;5;2001-12-22
+4277;Deep Rising;4;2002-05-05
+4610;Deep Rising;4;2001-03-17
+2909;Night Flier;4;2001-12-26
+2985;Species II;4;2002-08-22
+195;Ugly, The;4;2002-02-28
+169;Plan 9 from Outer Space;5;2002-04-22
+1051;Plan 9 from Outer Space;4;2001-04-28
+1186;Plan 9 from Outer Space;4;2001-01-12
+1395;Plan 9 from Outer Space;4;2002-04-21
+1447;Plan 9 from Outer Space;4;2001-02-01
+2176;Plan 9 from Outer Space;4;2002-01-02
+2909;Nightmare on Elm Street Part 2: Freddy's Revenge, A;4;2001-12-26
+678;Nightmare on Elm Street 3: Dream Warriors, A;4;2001-04-30
+1266;Nightmare on Elm Street 3: Dream Warriors, A;4;2001-01-05
+2063;Nightmare on Elm Street 3: Dream Warriors, A;4;2001-07-14
+2909;Nightmare on Elm Street 3: Dream Warriors, A;4;2001-12-26
+2910;Nightmare on Elm Street 3: Dream Warriors, A;5;2002-03-18
+4387;Nightmare on Elm Street 3: Dream Warriors, A;4;2002-01-10
+2910;Freddy's Dead: The Final Nightmare;4;2002-03-18
+678;Friday the 13th;4;2002-06-26
+2063;Friday the 13th;4;2001-07-14
+4448;Friday the 13th;5;2001-04-02
+4520;Friday the 13th;4;2002-02-22
+2909;Friday the 13th Part 2;4;2001-12-26
+19;Halloween;5;2001-01-03
+33;Halloween;5;2001-01-03
+678;Halloween;4;2001-05-10
+691;Halloween;4;2001-07-01
+710;Halloween;4;2001-01-01
+791;Halloween;4;2001-02-12
+884;Halloween;5;2001-08-23
+937;Halloween;4;2001-09-30
+1137;Halloween;5;2001-02-23
+1266;Halloween;4;2001-08-26
+1425;Halloween;5;2001-01-31
+1611;Halloween;4;2001-03-02
+1733;Halloween;5;2002-05-12
+1776;Halloween;4;2001-03-20
+1842;Halloween;5;2001-07-29
+2114;Halloween;4;2001-10-19
+2129;Halloween;4;2001-02-28
+2131;Halloween;5;2001-07-01
+2643;Halloween;4;2002-09-06
+2781;Halloween;4;2001-05-11
+2898;Halloween;5;2002-01-12
+3018;Halloween;4;2001-02-20
+3768;Halloween;4;2001-09-04
+4126;Halloween;4;2001-09-02
+4448;Halloween;4;2001-04-02
+4520;Halloween;4;2001-05-26
+5205;Halloween;5;2001-01-12
+5792;Halloween;4;2001-09-20
+5812;Halloween;4;2001-06-09
+5837;Halloween;4;2002-01-24
+1776;Halloween II;4;2001-03-20
+678;Halloween III: Season of the Witch;4;2001-04-30
+1776;Halloween III: Season of the Witch;4;2001-03-20
+1369;Halloween 4: The Return of Michael Myers;4;2002-02-23
+1733;Halloween 4: The Return of Michael Myers;4;2002-05-20
+2910;Halloween 4: The Return of Michael Myers;5;2002-03-18
+1776;Halloween 5: The Revenge of Michael Myers;4;2001-03-20
+4508;Hello Mary Lou: Prom Night II;4;2001-06-21
+4305;Prom Night IV: Deliver Us From Evil;4;2002-12-06
+424;Child's Play;4;2002-04-01
+1943;Child's Play 2;4;2002-06-01
+19;Poltergeist;5;2001-01-03
+23;Poltergeist;4;2001-01-02
+204;Poltergeist;5;2001-03-05
+208;Poltergeist;4;2001-03-13
+349;Poltergeist;4;2002-07-31
+442;Poltergeist;5;2001-01-02
+678;Poltergeist;4;2001-04-30
+791;Poltergeist;4;2001-02-12
+1051;Poltergeist;5;2001-04-13
+1087;Poltergeist;4;2001-05-22
+1137;Poltergeist;5;2001-02-23
+1260;Poltergeist;4;2001-10-25
+1390;Poltergeist;4;2002-04-15
+1425;Poltergeist;5;2002-05-14
+1447;Poltergeist;4;2001-02-01
+1451;Poltergeist;4;2002-12-27
+1611;Poltergeist;4;2001-04-18
+1643;Poltergeist;4;2002-01-23
+1712;Poltergeist;4;2002-01-27
+2129;Poltergeist;5;2001-02-28
+2131;Poltergeist;4;2001-07-01
+2195;Poltergeist;4;2002-10-24
+2643;Poltergeist;4;2002-09-06
+2715;Poltergeist;4;2001-12-10
+2781;Poltergeist;4;2001-05-11
+2962;Poltergeist;4;2001-01-08
+3410;Poltergeist;4;2001-01-03
+3412;Poltergeist;4;2002-09-03
+3420;Poltergeist;5;2001-05-11
+3503;Poltergeist;5;2001-11-10
+4107;Poltergeist;4;2001-01-06
+4118;Poltergeist;4;2001-02-28
+4186;Poltergeist;4;2002-04-03
+4305;Poltergeist;4;2002-01-11
+4517;Poltergeist;4;2001-05-28
+5205;Poltergeist;5;2001-01-12
+5475;Poltergeist;4;2001-07-21
+5493;Poltergeist;4;2001-10-26
+5654;Poltergeist;4;2001-07-20
+19;Exorcist, The;5;2001-01-03
+85;Exorcist, The;5;2001-01-14
+116;Exorcist, The;4;2001-02-16
+123;Exorcist, The;4;2001-01-12
+127;Exorcist, The;5;2001-01-06
+148;Exorcist, The;4;2001-01-22
+195;Exorcist, The;5;2002-01-30
+204;Exorcist, The;4;2001-03-05
+208;Exorcist, The;4;2001-03-13
+248;Exorcist, The;5;2001-01-01
+259;Exorcist, The;5;2001-01-13
+319;Exorcist, The;4;2001-10-12
+349;Exorcist, The;5;2002-04-21
+355;Exorcist, The;4;2001-01-04
+362;Exorcist, The;5;2001-02-01
+376;Exorcist, The;5;2001-01-27
+438;Exorcist, The;4;2001-02-07
+496;Exorcist, The;4;2001-01-20
+648;Exorcist, The;4;2001-02-09
+711;Exorcist, The;4;2001-01-27
+839;Exorcist, The;4;2001-01-29
+884;Exorcist, The;4;2002-04-26
+897;Exorcist, The;4;2001-01-27
+953;Exorcist, The;5;2001-02-15
+1019;Exorcist, The;4;2002-03-18
+1020;Exorcist, The;5;2002-01-18
+1051;Exorcist, The;5;2001-04-14
+1087;Exorcist, The;4;2001-05-22
+1142;Exorcist, The;4;2001-02-12
+1182;Exorcist, The;4;2001-08-07
+1243;Exorcist, The;4;2001-01-31
+1260;Exorcist, The;4;2001-04-16
+1284;Exorcist, The;4;2001-01-27
+1290;Exorcist, The;5;2001-01-08
+1338;Exorcist, The;5;2001-01-01
+1425;Exorcist, The;5;2001-01-31
+1451;Exorcist, The;4;2002-12-27
+1539;Exorcist, The;4;2001-02-05
+1643;Exorcist, The;5;2002-01-23
+1699;Exorcist, The;5;2001-01-21
+1712;Exorcist, The;4;2001-01-24
+1729;Exorcist, The;4;2001-02-03
+1733;Exorcist, The;5;2002-05-12
+1755;Exorcist, The;5;2002-11-10
+1776;Exorcist, The;4;2001-03-20
+1842;Exorcist, The;5;2001-07-29
+1851;Exorcist, The;4;2001-02-19
+1860;Exorcist, The;4;2001-01-06
+1912;Exorcist, The;4;2002-01-11
+1946;Exorcist, The;4;2001-01-21
+2020;Exorcist, The;4;2001-04-29
+2077;Exorcist, The;5;2001-07-08
+2103;Exorcist, The;4;2001-01-10
+2116;Exorcist, The;5;2001-01-01
+2122;Exorcist, The;5;2001-08-06
+2129;Exorcist, The;4;2001-02-28
+2232;Exorcist, The;5;2001-01-01
+2247;Exorcist, The;5;2001-01-11
+2504;Exorcist, The;5;2001-11-10
+2529;Exorcist, The;4;2001-11-13
+2781;Exorcist, The;4;2001-05-11
+3018;Exorcist, The;4;2001-02-20
+3041;Exorcist, The;4;2001-03-26
+3057;Exorcist, The;4;2001-01-02
+3079;Exorcist, The;4;2001-01-09
+3203;Exorcist, The;5;2001-02-14
+3285;Exorcist, The;4;2001-01-14
+3420;Exorcist, The;5;2001-05-11
+3475;Exorcist, The;5;2001-08-05
+3503;Exorcist, The;5;2001-11-10
+3520;Exorcist, The;4;2001-01-27
+3550;Exorcist, The;4;2001-12-27
+3824;Exorcist, The;4;2001-06-07
+3832;Exorcist, The;4;2001-02-28
+3953;Exorcist, The;4;2002-08-18
+4241;Exorcist, The;5;2001-03-01
+4294;Exorcist, The;4;2002-08-11
+4520;Exorcist, The;5;2001-05-26
+4757;Exorcist, The;4;2001-04-03
+4834;Exorcist, The;4;2001-01-24
+4867;Exorcist, The;5;2001-09-07
+5019;Exorcist, The;5;2001-03-30
+5054;Exorcist, The;5;2001-12-28
+5205;Exorcist, The;5;2001-01-12
+5300;Exorcist, The;4;2001-02-11
+5359;Exorcist, The;4;2002-08-11
+5371;Exorcist, The;4;2001-01-08
+5473;Exorcist, The;4;2001-01-30
+5580;Exorcist, The;4;2002-07-08
+5918;Exorcist, The;4;2001-02-21
+6002;Exorcist, The;5;2002-02-23
+424;Exorcist III, The;4;2002-04-01
+195;Gremlins;4;2001-01-10
+306;Gremlins;5;2001-01-10
+329;Gremlins;4;2001-02-09
+372;Gremlins;5;2001-01-25
+641;Gremlins;4;2002-04-21
+678;Gremlins;4;2001-04-30
+753;Gremlins;4;2002-10-09
+791;Gremlins;5;2001-02-12
+1101;Gremlins;4;2002-06-25
+1425;Gremlins;4;2001-12-11
+1579;Gremlins;4;2001-02-04
+2077;Gremlins;4;2001-01-20
+2129;Gremlins;4;2001-02-28
+3055;Gremlins;4;2002-05-16
+3420;Gremlins;4;2001-05-11
+3507;Gremlins;4;2001-02-17
+3648;Gremlins;4;2001-10-11
+3679;Gremlins;4;2001-02-06
+4517;Gremlins;4;2001-05-28
+4520;Gremlins;4;2002-02-22
+5054;Gremlins;4;2001-12-28
+5205;Gremlins;5;2001-01-12
+5682;Gremlins;4;2002-07-14
+678;Gremlins 2: The New Batch;4;2001-05-07
+753;Gremlins 2: The New Batch;4;2002-10-09
+937;Gremlins 2: The New Batch;4;2002-10-28
+2969;Gremlins 2: The New Batch;4;2002-11-17
+372;Disturbing Behavior;5;2001-01-25
+884;Disturbing Behavior;4;2001-08-23
+4697;Disturbing Behavior;4;2001-08-24
+148;Something Wicked This Way Comes;5;2001-01-15
+678;Something Wicked This Way Comes;4;2001-04-30
+1317;Something Wicked This Way Comes;4;2002-01-22
+1643;Something Wicked This Way Comes;4;2002-01-23
+1930;Something Wicked This Way Comes;4;2001-03-04
+3475;Something Wicked This Way Comes;4;2001-08-19
+3679;Something Wicked This Way Comes;4;2001-02-06
+5812;Something Wicked This Way Comes;4;2001-06-09
+424;Halloween: H20;4;2002-03-21
+2129;Halloween: H20;4;2001-02-28
+4085;Halloween: H20;4;2001-04-01
+4520;Halloween: H20;4;2001-05-26
+33;Dead Zone, The;4;2001-01-03
+264;Dead Zone, The;4;2001-01-12
+343;Dead Zone, The;5;2002-01-20
+424;Dead Zone, The;4;2002-04-01
+678;Dead Zone, The;4;2001-04-16
+692;Dead Zone, The;4;2001-01-01
+791;Dead Zone, The;5;2001-02-12
+1137;Dead Zone, The;4;2001-02-23
+1447;Dead Zone, The;4;2001-02-01
+1643;Dead Zone, The;5;2002-01-23
+1842;Dead Zone, The;4;2001-07-29
+2129;Dead Zone, The;5;2001-02-28
+4186;Dead Zone, The;4;2002-04-02
+5355;Dead Zone, The;5;2002-02-07
+5475;Dead Zone, The;4;2001-07-10
+1643;Needful Things;4;2002-01-23
+3648;Needful Things;4;2001-07-10
+4186;Needful Things;5;2002-04-02
+4520;Needful Things;4;2001-05-26
+5621;Needful Things;4;2002-01-19
+424;Cujo;4;2002-03-21
+1451;Cujo;4;2002-03-14
+3792;Cujo;4;2001-01-19
+148;Children of the Corn;4;2001-01-15
+195;Children of the Corn;4;2001-01-28
+1776;Children of the Corn;4;2001-03-20
+2611;Children of the Corn;4;2001-06-18
+3648;Children of the Corn;4;2001-05-03
+23;House;4;2001-06-28
+881;House II: The Second Story;4;2002-02-12
+1369;Henry: Portrait of a Serial Killer, Part 2;5;2002-02-23
+173;Henry: Portrait of a Serial Killer;5;2001-01-11
+195;Henry: Portrait of a Serial Killer;5;2001-05-15
+1447;Henry: Portrait of a Serial Killer;5;2002-02-17
+1733;Henry: Portrait of a Serial Killer;5;2002-05-07
+2781;Henry: Portrait of a Serial Killer;5;2001-05-11
+4169;Henry: Portrait of a Serial Killer;4;2001-02-04
+23;Rosemary's Baby;4;2001-01-02
+33;Rosemary's Baby;4;2001-01-03
+173;Rosemary's Baby;4;2001-01-24
+231;Rosemary's Baby;4;2001-08-05
+518;Rosemary's Baby;5;2001-01-31
+698;Rosemary's Baby;5;2002-03-02
+1306;Rosemary's Baby;4;2002-10-31
+1317;Rosemary's Baby;4;2002-02-17
+1639;Rosemary's Baby;4;2001-01-15
+1643;Rosemary's Baby;5;2002-01-23
+1860;Rosemary's Baby;4;2001-01-06
+1897;Rosemary's Baby;4;2002-04-01
+1912;Rosemary's Baby;4;2001-12-12
+2247;Rosemary's Baby;4;2001-01-11
+2353;Rosemary's Baby;4;2002-05-03
+2715;Rosemary's Baby;5;2001-12-10
+2757;Rosemary's Baby;4;2001-01-22
+2910;Rosemary's Baby;5;2002-03-18
+2962;Rosemary's Baby;4;2001-01-08
+2991;Rosemary's Baby;4;2001-11-14
+3053;Rosemary's Baby;5;2002-01-24
+3163;Rosemary's Baby;5;2001-04-17
+3301;Rosemary's Baby;5;2001-09-30
+3420;Rosemary's Baby;5;2001-05-24
+3503;Rosemary's Baby;4;2002-01-23
+3821;Rosemary's Baby;4;2001-06-06
+4940;Rosemary's Baby;4;2002-05-21
+5317;Rosemary's Baby;4;2001-08-14
+5397;Rosemary's Baby;4;2002-12-11
+5475;Rosemary's Baby;4;2001-07-10
+753;Attack of the Killer Tomatoes!;4;2002-01-27
+1980;Attack of the Killer Tomatoes!;4;2001-08-31
+3824;Attack of the Killer Tomatoes!;4;2001-06-07
+36;Blade;5;2002-03-11
+44;Blade;4;2001-10-29
+195;Blade;4;2001-01-07
+208;Blade;4;2001-03-13
+306;Blade;4;2001-01-10
+331;Blade;4;2001-03-09
+355;Blade;4;2001-01-15
+453;Blade;4;2001-03-21
+496;Blade;5;2002-04-20
+667;Blade;5;2001-12-11
+678;Blade;4;2001-05-07
+752;Blade;4;2001-06-07
+839;Blade;4;2001-01-26
+996;Blade;4;2001-01-22
+1051;Blade;4;2002-05-28
+1088;Blade;4;2001-05-04
+1125;Blade;4;2001-10-04
+1219;Blade;4;2001-01-02
+1306;Blade;5;2002-01-18
+1447;Blade;4;2001-02-01
+1524;Blade;4;2001-02-04
+1530;Blade;4;2001-06-06
+1601;Blade;5;2001-01-03
+1842;Blade;4;2001-07-29
+1978;Blade;4;2001-06-06
+1982;Blade;4;2001-01-17
+2271;Blade;4;2001-11-30
+2544;Blade;4;2002-06-20
+2824;Blade;4;2001-11-16
+2847;Blade;4;2002-08-10
+3327;Blade;4;2001-04-29
+3433;Blade;4;2002-03-23
+3652;Blade;4;2002-03-30
+4085;Blade;4;2001-04-01
+4107;Blade;5;2001-01-06
+4640;Blade;4;2001-08-08
+5011;Blade;4;2002-11-23
+5312;Blade;4;2002-08-31
+372;Urban Legend;5;2001-01-25
+884;Urban Legend;4;2001-08-23
+3055;Urban Legend;4;2001-08-18
+4791;Urban Legend;4;2001-05-17
+5492;Urban Legend;4;2001-08-01
+33;Thing, The;4;2001-01-08
+231;Thing, The;5;2001-06-26
+422;Thing, The;4;2002-01-13
+678;Thing, The;5;2001-04-30
+1246;Thing, The;4;2002-07-27
+1260;Thing, The;4;2001-10-25
+1306;Thing, The;5;2001-12-24
+1447;Thing, The;5;2001-02-01
+1451;Thing, The;4;2001-12-13
+1733;Thing, The;5;2002-05-12
+1912;Thing, The;4;2002-02-23
+2131;Thing, The;5;2001-07-01
+2282;Thing, The;5;2001-01-01
+2504;Thing, The;5;2001-11-10
+2781;Thing, The;5;2001-05-11
+5453;Thing, The;4;2002-11-04
+5475;Thing, The;4;2001-07-10
+5787;Thing, The;4;2001-09-21
+5892;Thing, The;5;2002-01-02
+343;Bride of Chucky;4;2001-11-19
+890;Bride of Chucky;4;2001-01-21
+937;Tales from the Darkside: The Movie;4;2001-09-30
+1051;Tales from the Darkside: The Movie;4;2001-04-13
+1755;Tales from the Darkside: The Movie;4;2002-08-21
+195;Vampires;4;2001-04-13
+1219;Vampires;4;2001-01-02
+753;I Still Know What You Did Last Summer;4;2002-01-27
+1302;I Still Know What You Did Last Summer;4;2001-06-23
+5492;I Still Know What You Did Last Summer;4;2001-08-01
+5605;I Still Know What You Did Last Summer;4;2001-04-15
+173;King Kong;5;2001-10-04
+195;King Kong;4;2001-01-28
+424;King Kong;4;2001-05-09
+588;King Kong;4;2001-01-12
+791;King Kong;4;2001-02-12
+884;King Kong;5;2001-08-21
+1182;King Kong;4;2001-08-10
+1389;King Kong;4;2001-07-05
+1447;King Kong;4;2001-02-01
+1505;King Kong;4;2001-03-03
+1560;King Kong;4;2001-08-18
+1597;King Kong;4;2001-07-05
+1842;King Kong;5;2001-07-29
+1912;King Kong;4;2001-01-19
+2282;King Kong;4;2001-02-22
+2342;King Kong;4;2002-12-29
+2781;King Kong;4;2002-01-14
+3002;King Kong;4;2001-08-06
+3018;King Kong;4;2001-01-31
+3970;King Kong;4;2002-04-19
+4186;King Kong;4;2002-05-06
+4520;King Kong;4;2002-02-22
+4744;King Kong;4;2002-12-03
+4940;King Kong;5;2002-05-21
+5054;King Kong;4;2002-08-23
+5291;King Kong;4;2001-02-07
+5397;King Kong;4;2002-12-11
+5475;King Kong;4;2001-07-10
+5787;King Kong;4;2001-03-09
+639;King Kong;4;2001-03-10
+678;King Kong;4;2001-05-10
+884;King Kong;5;2001-08-23
+2129;King Kong;4;2001-02-28
+4448;King Kong;4;2001-04-02
+4520;King Kong;4;2001-05-26
+839;Lifeforce;4;2001-01-29
+2841;Lifeforce;5;2001-02-21
+692;Psycho;4;2001-01-01
+716;Psycho;4;2001-01-05
+2129;Psycho;4;2001-02-28
+2910;Psycho;4;2002-03-18
+3792;Psycho;4;2001-01-19
+1302;Faculty, The;5;2001-06-23
+1399;Faculty, The;4;2001-12-17
+1524;Faculty, The;4;2001-02-04
+5565;Faculty, The;4;2001-09-19
+2131;Gate, The;4;2001-07-01
+19;Fly, The;4;2001-01-03
+23;Fly, The;4;2001-01-02
+86;Fly, The;5;2001-01-06
+366;Fly, The;4;2001-01-02
+424;Fly, The;4;2002-07-26
+1447;Fly, The;4;2001-02-01
+2129;Fly, The;4;2001-02-28
+2282;Fly, The;4;2001-01-01
+2544;Fly, The;4;2002-06-21
+2909;Fly, The;4;2001-12-26
+4940;Fly, The;5;2002-05-21
+5054;Fly, The;4;2001-12-28
+23;Fly, The;4;2001-01-02
+343;Fly, The;4;2001-04-29
+678;Fly, The;4;2001-04-30
+791;Fly, The;4;2001-02-09
+827;Fly, The;5;2001-11-05
+839;Fly, The;4;2001-01-29
+881;Fly, The;4;2002-02-21
+1101;Fly, The;4;2001-01-24
+1243;Fly, The;4;2001-01-08
+1390;Fly, The;4;2002-04-15
+1451;Fly, The;4;2001-12-13
+1458;Fly, The;4;2001-08-17
+1601;Fly, The;4;2001-01-03
+1611;Fly, The;4;2001-01-29
+1643;Fly, The;5;2002-01-23
+2129;Fly, The;4;2001-02-28
+2176;Fly, The;5;2002-08-24
+2282;Fly, The;5;2001-01-01
+2453;Fly, The;4;2002-01-06
+2643;Fly, The;4;2002-09-06
+3053;Fly, The;4;2002-01-24
+3412;Fly, The;5;2002-09-03
+3679;Fly, The;4;2001-02-06
+3792;Fly, The;4;2001-01-25
+4520;Fly, The;4;2001-05-26
+5605;Fly, The;4;2001-10-24
+5733;Fly, The;4;2002-03-16
+4868;Fly II, The;4;2002-12-31
+424;Texas Chainsaw Massacre, The;4;2002-04-29
+698;Texas Chainsaw Massacre, The;4;2002-03-02
+881;Texas Chainsaw Massacre, The;4;2002-02-12
+1447;Texas Chainsaw Massacre, The;5;2001-02-01
+1611;Texas Chainsaw Massacre, The;4;2001-04-18
+1643;Texas Chainsaw Massacre, The;4;2002-01-23
+1733;Texas Chainsaw Massacre, The;4;2002-05-12
+3401;Texas Chainsaw Massacre, The;4;2001-01-21
+4448;Texas Chainsaw Massacre, The;4;2001-04-02
+4520;Texas Chainsaw Massacre, The;4;2001-05-26
+5205;Texas Chainsaw Massacre, The;4;2001-01-12
+5605;Texas Chainsaw Massacre, The;5;2001-04-15
+2910;Texas Chainsaw Massacre 2, The;5;2002-03-18
+2909;Leatherface: Texas Chainsaw Massacre III;4;2001-12-26
+2910;Return of the Texas Chainsaw Massacre, The;5;2002-03-18
+195;Day of the Beast, The (El Día de la bestia);4;2001-10-04
+2880;Day of the Beast, The (El Día de la bestia);4;2001-05-05
+173;Peeping Tom;4;2001-03-22
+195;Peeping Tom;4;2002-12-06
+1274;Peeping Tom;4;2002-09-13
+2779;Peeping Tom;5;2001-04-06
+2826;Peeping Tom;4;2001-01-04
+2952;Peeping Tom;5;2001-02-14
+3301;Peeping Tom;4;2001-09-30
+195;Pet Sematary;4;2001-03-26
+372;Pet Sematary;5;2001-01-25
+424;Pet Sematary;4;2002-04-01
+438;Pet Sematary;4;2001-02-07
+678;Pet Sematary;4;2001-04-30
+1125;Pet Sematary;4;2001-09-30
+1447;Pet Sematary;5;2001-02-01
+2131;Pet Sematary;4;2001-07-01
+3626;Pet Sematary;4;2001-05-30
+4520;Pet Sematary;4;2001-05-26
+343;Christine;4;2002-01-13
+424;Christine;4;2002-04-01
+678;Christine;4;2001-04-30
+1579;Christine;4;2001-02-04
+1611;Christine;4;2001-01-29
+1643;Christine;4;2002-01-23
+2129;Christine;4;2001-02-28
+4079;Christine;4;2001-05-23
+4477;Christine;4;2002-04-06
+4520;Christine;4;2002-02-22
+1717;House on Haunted Hill;4;2001-06-25
+2131;House on Haunted Hill;4;2001-07-01
+2909;House on Haunted Hill;4;2001-12-26
+2781;Alligator;4;2001-05-11
+5097;Alligator;5;2001-12-30
+372;Rage: Carrie 2, The;5;2001-01-25
+5605;Rage: Carrie 2, The;4;2001-04-15
+424;Haunting, The;4;2002-03-21
+518;Haunting, The;5;2001-01-31
+678;Haunting, The;4;2001-01-05
+1274;Haunting, The;4;2002-07-05
+1643;Haunting, The;4;2002-01-23
+2962;Haunting, The;4;2001-01-08
+3018;Haunting, The;4;2001-02-20
+3055;Haunting, The;5;2002-05-16
+5205;Haunting, The;4;2001-01-12
+5605;Haunting, The;5;2001-10-16
+6002;Haunting, The;5;2002-02-23
+2909;Village of the Damned;4;2001-12-26
+3410;Village of the Damned;4;2001-01-07
+3792;Village of the Damned;4;2001-01-19
+4815;Village of the Damned;5;2001-06-01
+33;Children of the Damned;4;2001-01-08
+173;Children of the Damned;4;2001-06-22
+1348;Children of the Damned;4;2001-02-21
+1599;Children of the Damned;4;2001-07-03
+4186;Children of the Damned;4;2002-06-14
+188;Ravenous;4;2002-01-19
+195;Ravenous;4;2002-08-09
+424;Ravenous;4;2002-05-27
+1203;Ravenous;5;2001-08-19
+1447;Ravenous;5;2001-04-29
+1645;Ravenous;5;2001-04-26
+92;Idle Hands;4;2001-04-02
+372;Idle Hands;4;2001-01-25
+1524;Idle Hands;4;2001-02-04
+1779;Idle Hands;4;2001-08-24
+2781;Idle Hands;4;2002-01-14
+3055;Idle Hands;4;2002-05-16
+5492;Idle Hands;5;2001-08-01
+148;Night of the Comet;4;2001-01-15
+343;Night of the Comet;5;2001-04-29
+424;Night of the Comet;4;2002-03-21
+454;Night of the Comet;4;2002-07-02
+1306;Night of the Comet;5;2001-12-22
+1560;Night of the Comet;4;2001-08-18
+3055;Night of the Comet;4;2001-08-18
+23;Mummy, The;5;2001-06-28
+36;Mummy, The;4;2001-06-27
+137;Mummy, The;4;2001-09-18
+331;Mummy, The;4;2001-01-18
+338;Mummy, The;4;2001-04-24
+372;Mummy, The;5;2001-01-25
+438;Mummy, The;5;2001-01-30
+496;Mummy, The;5;2001-04-28
+531;Mummy, The;4;2001-07-02
+583;Mummy, The;5;2001-06-21
+667;Mummy, The;4;2001-12-11
+753;Mummy, The;4;2002-12-29
+822;Mummy, The;4;2001-05-24
+1088;Mummy, The;4;2001-05-03
+1101;Mummy, The;4;2001-05-25
+1203;Mummy, The;4;2001-06-16
+1266;Mummy, The;4;2001-01-05
+1530;Mummy, The;4;2002-01-23
+1643;Mummy, The;4;2001-07-20
+1647;Mummy, The;4;2002-07-28
+1842;Mummy, The;4;2001-06-23
+2012;Mummy, The;4;2002-09-02
+2022;Mummy, The;4;2001-10-17
+2097;Mummy, The;4;2001-04-25
+2193;Mummy, The;4;2001-05-15
+2239;Mummy, The;4;2001-04-09
+2451;Mummy, The;4;2001-05-08
+2544;Mummy, The;4;2002-06-20
+2887;Mummy, The;4;2002-08-20
+2969;Mummy, The;4;2001-05-07
+2980;Mummy, The;4;2001-06-24
+2985;Mummy, The;4;2002-08-22
+3055;Mummy, The;5;2002-05-16
+3158;Mummy, The;4;2001-06-20
+3203;Mummy, The;4;2001-06-10
+3274;Mummy, The;4;2001-06-28
+3562;Mummy, The;4;2002-01-14
+3610;Mummy, The;5;2001-05-21
+3648;Mummy, The;5;2001-05-03
+3652;Mummy, The;5;2001-07-19
+4005;Mummy, The;4;2001-04-15
+4508;Mummy, The;4;2001-01-05
+4579;Mummy, The;4;2001-12-17
+4610;Mummy, The;4;2001-03-17
+4624;Mummy, The;5;2001-06-07
+5682;Mummy, The;4;2002-07-14
+424;Mummy, The;4;2002-03-21
+1101;Mummy, The;4;2001-02-12
+1274;Mummy, The;5;2002-12-19
+1447;Mummy, The;4;2001-02-01
+2116;Mummy, The;5;2001-03-04
+2909;Mummy, The;5;2001-12-26
+5787;Mummy, The;5;2001-09-21
+326;Mummy, The;4;2001-01-31
+2909;Mummy, The;5;2001-12-26
+3751;Mummy's Curse, The;4;2001-09-07
+953;Mummy's Hand, The;5;2001-09-06
+4387;Mummy's Hand, The;4;2001-04-12
+19;Mummy's Tomb, The;4;2001-01-03
+953;Mummy's Tomb, The;5;2001-09-06
+19;Dracula;4;2001-01-03
+326;Dracula;4;2001-01-31
+462;Dracula;4;2001-01-22
+1088;Dracula;5;2002-04-09
+1101;Dracula;4;2001-02-12
+1186;Dracula;4;2002-11-17
+1274;Dracula;4;2002-02-01
+1643;Dracula;5;2002-01-23
+1941;Dracula;5;2001-01-09
+2544;Dracula;4;2002-03-29
+3018;Dracula;4;2001-02-20
+4448;Dracula;5;2001-04-02
+4940;Dracula;5;2002-05-21
+5054;Dracula;4;2002-08-23
+5787;Dracula;4;2001-09-21
+173;Dracula;4;2001-06-22
+424;Dracula;4;2001-01-10
+3018;House of Dracula;4;2001-02-20
+1884;House of Frankenstein;4;2001-03-05
+1941;House of Frankenstein;4;2001-05-07
+3018;House of Frankenstein;4;2001-02-20
+4305;House of Frankenstein;4;2002-01-11
+19;Frankenstein;4;2001-01-03
+33;Frankenstein;4;2001-01-03
+148;Frankenstein;5;2001-01-15
+195;Frankenstein;5;2001-05-21
+462;Frankenstein;4;2001-01-22
+639;Frankenstein;4;2001-03-10
+699;Frankenstein;4;2001-04-06
+1101;Frankenstein;4;2001-02-12
+1265;Frankenstein;5;2001-09-20
+1266;Frankenstein;4;2001-01-05
+1447;Frankenstein;4;2001-02-01
+1458;Frankenstein;4;2001-05-15
+1643;Frankenstein;5;2002-01-23
+1941;Frankenstein;5;2001-05-07
+1980;Frankenstein;4;2001-06-14
+2247;Frankenstein;4;2001-01-11
+2529;Frankenstein;5;2001-11-13
+2544;Frankenstein;5;2001-01-06
+2781;Frankenstein;5;2001-05-11
+3018;Frankenstein;4;2001-02-20
+3313;Frankenstein;4;2001-08-28
+5054;Frankenstein;4;2002-08-23
+5387;Frankenstein;5;2001-09-19
+5397;Frankenstein;4;2002-12-11
+5787;Frankenstein;4;2001-09-21
+5948;Frankenstein;5;2001-09-04
+1369;Son of Frankenstein;5;2002-02-23
+1447;Son of Frankenstein;4;2001-08-08
+3018;Son of Frankenstein;4;2001-02-20
+4277;Son of Frankenstein;4;2001-09-28
+33;Ghost of Frankenstein, The;4;2001-01-03
+3018;Ghost of Frankenstein, The;4;2001-02-20
+3018;Frankenstein Meets the Wolf Man;4;2001-02-20
+4305;Curse of Frankenstein, The;4;2002-01-11
+3018;Son of Dracula;4;2001-02-20
+195;Wolf Man, The;4;2001-09-09
+424;Wolf Man, The;4;2002-04-01
+1186;Wolf Man, The;5;2001-03-13
+1274;Wolf Man, The;5;2002-01-04
+3018;Wolf Man, The;4;2001-02-20
+4186;Wolf Man, The;4;2002-04-04
+4940;Wolf Man, The;4;2002-05-21
+5387;Wolf Man, The;4;2001-10-23
+5787;Wolf Man, The;4;2001-09-21
+1186;Tarantula;5;2001-01-12
+2907;Tarantula;4;2001-04-01
+23;Rocky Horror Picture Show, The;4;2001-01-02
+24;Rocky Horror Picture Show, The;4;2001-04-01
+28;Rocky Horror Picture Show, The;4;2001-01-08
+68;Rocky Horror Picture Show, The;4;2001-06-01
+73;Rocky Horror Picture Show, The;4;2001-02-04
+92;Rocky Horror Picture Show, The;4;2001-04-01
+151;Rocky Horror Picture Show, The;4;2001-06-21
+442;Rocky Horror Picture Show, The;4;2001-08-07
+678;Rocky Horror Picture Show, The;4;2001-01-05
+753;Rocky Horror Picture Show, The;4;2002-01-27
+840;Rocky Horror Picture Show, The;5;2001-07-25
+1029;Rocky Horror Picture Show, The;5;2001-06-23
+1051;Rocky Horror Picture Show, The;4;2001-04-14
+1186;Rocky Horror Picture Show, The;4;2001-01-12
+1301;Rocky Horror Picture Show, The;4;2002-07-01
+1611;Rocky Horror Picture Show, The;5;2001-03-20
+1842;Rocky Horror Picture Show, The;4;2001-07-29
+2282;Rocky Horror Picture Show, The;5;2001-01-01
+2715;Rocky Horror Picture Show, The;4;2001-12-10
+2910;Rocky Horror Picture Show, The;5;2002-03-18
+3002;Rocky Horror Picture Show, The;4;2002-10-09
+3038;Rocky Horror Picture Show, The;5;2002-04-05
+3274;Rocky Horror Picture Show, The;4;2001-01-17
+3833;Rocky Horror Picture Show, The;4;2001-02-07
+4610;Rocky Horror Picture Show, The;4;2001-03-17
+5001;Rocky Horror Picture Show, The;5;2002-04-28
+5011;Rocky Horror Picture Show, The;4;2002-04-08
+5322;Rocky Horror Picture Show, The;4;2002-07-03
+5394;Rocky Horror Picture Show, The;4;2001-01-31
+5991;Rocky Horror Picture Show, The;5;2001-09-09
+33;Invasion of the Body Snatchers;5;2001-01-03
+114;Invasion of the Body Snatchers;4;2001-01-24
+148;Invasion of the Body Snatchers;5;2001-01-15
+231;Invasion of the Body Snatchers;5;2002-08-23
+343;Invasion of the Body Snatchers;5;2001-04-29
+391;Invasion of the Body Snatchers;5;2001-02-04
+518;Invasion of the Body Snatchers;5;2001-01-03
+699;Invasion of the Body Snatchers;4;2001-04-06
+791;Invasion of the Body Snatchers;5;2001-02-09
+874;Invasion of the Body Snatchers;4;2001-12-30
+1137;Invasion of the Body Snatchers;4;2001-02-23
+1218;Invasion of the Body Snatchers;4;2001-02-06
+1447;Invasion of the Body Snatchers;4;2001-02-01
+1505;Invasion of the Body Snatchers;4;2001-03-03
+1643;Invasion of the Body Snatchers;5;2002-01-23
+1699;Invasion of the Body Snatchers;5;2001-02-04
+1733;Invasion of the Body Snatchers;4;2001-01-22
+1748;Invasion of the Body Snatchers;4;2002-06-19
+1860;Invasion of the Body Snatchers;4;2001-01-06
+2247;Invasion of the Body Snatchers;4;2001-01-11
+2648;Invasion of the Body Snatchers;4;2002-09-10
+3038;Invasion of the Body Snatchers;5;2002-04-05
+3732;Invasion of the Body Snatchers;4;2001-04-08
+3963;Invasion of the Body Snatchers;4;2002-04-12
+3970;Invasion of the Body Snatchers;4;2002-04-19
+4489;Invasion of the Body Snatchers;5;2002-07-17
+4543;Invasion of the Body Snatchers;4;2001-05-22
+4579;Invasion of the Body Snatchers;5;2002-12-07
+4829;Invasion of the Body Snatchers;4;2002-03-25
+4940;Invasion of the Body Snatchers;5;2002-05-21
+5054;Invasion of the Body Snatchers;4;2001-12-28
+343;Swamp Thing;4;2001-04-29
+1812;Swamp Thing;4;2001-05-06
+2131;Swamp Thing;4;2001-07-01
+162;Blair Witch Project, The;4;2001-01-08
+372;Blair Witch Project, The;4;2001-01-25
+376;Blair Witch Project, The;4;2001-01-27
+518;Blair Witch Project, The;4;2001-01-30
+531;Blair Witch Project, The;4;2001-07-02
+582;Blair Witch Project, The;4;2001-02-12
+692;Blair Witch Project, The;4;2002-02-02
+698;Blair Witch Project, The;4;2002-03-02
+881;Blair Witch Project, The;4;2002-02-21
+890;Blair Witch Project, The;5;2001-08-13
+937;Blair Witch Project, The;4;2001-07-13
+1101;Blair Witch Project, The;4;2001-02-12
+1117;Blair Witch Project, The;4;2001-09-21
+1203;Blair Witch Project, The;4;2001-08-19
+1447;Blair Witch Project, The;5;2001-02-01
+1484;Blair Witch Project, The;4;2001-08-15
+1524;Blair Witch Project, The;5;2001-02-04
+1530;Blair Witch Project, The;4;2001-03-19
+1551;Blair Witch Project, The;5;2002-02-10
+1579;Blair Witch Project, The;4;2001-01-26
+1643;Blair Witch Project, The;4;2002-01-23
+1712;Blair Witch Project, The;4;2002-01-26
+1776;Blair Witch Project, The;4;2001-02-24
+1834;Blair Witch Project, The;4;2002-11-24
+1842;Blair Witch Project, The;5;2001-07-29
+1912;Blair Witch Project, The;4;2001-01-19
+2501;Blair Witch Project, The;4;2001-07-12
+2655;Blair Witch Project, The;4;2002-01-03
+2820;Blair Witch Project, The;5;2001-01-18
+2910;Blair Witch Project, The;5;2002-03-18
+2911;Blair Witch Project, The;5;2001-01-06
+2918;Blair Witch Project, The;5;2002-01-24
+2969;Blair Witch Project, The;4;2001-02-21
+3055;Blair Witch Project, The;4;2001-08-12
+3301;Blair Witch Project, The;4;2002-07-06
+3420;Blair Witch Project, The;5;2001-05-24
+3991;Blair Witch Project, The;5;2001-01-27
+4126;Blair Witch Project, The;4;2001-01-02
+5102;Blair Witch Project, The;4;2001-02-22
+5394;Blair Witch Project, The;4;2001-01-28
+5733;Blair Witch Project, The;4;2001-04-29
+372;Lake Placid;5;2001-01-25
+531;Lake Placid;4;2001-07-02
+582;Lake Placid;4;2001-02-12
+1088;Lake Placid;4;2001-08-20
+1560;Lake Placid;4;2002-02-17
+1712;Lake Placid;4;2002-01-26
+2489;Lake Placid;4;2002-01-18
+33;Ghostbusters;4;2001-01-03
+99;Ghostbusters;4;2001-07-05
+146;Ghostbusters;5;2002-02-06
+159;Ghostbusters;4;2001-05-15
+193;Ghostbusters;4;2002-10-22
+204;Ghostbusters;4;2001-03-05
+231;Ghostbusters;5;2002-08-23
+235;Ghostbusters;4;2002-04-09
+264;Ghostbusters;4;2001-01-12
+306;Ghostbusters;4;2001-01-10
+329;Ghostbusters;4;2001-02-09
+331;Ghostbusters;4;2001-09-13
+372;Ghostbusters;5;2001-01-25
+376;Ghostbusters;5;2001-01-27
+518;Ghostbusters;4;2001-01-30
+531;Ghostbusters;5;2001-01-05
+582;Ghostbusters;5;2001-02-12
+588;Ghostbusters;4;2001-03-26
+692;Ghostbusters;4;2001-01-01
+753;Ghostbusters;4;2002-01-27
+755;Ghostbusters;5;2001-08-14
+791;Ghostbusters;4;2001-02-09
+839;Ghostbusters;5;2001-01-26
+881;Ghostbusters;5;2002-02-21
+913;Ghostbusters;4;2001-01-27
+926;Ghostbusters;4;2001-11-24
+1087;Ghostbusters;4;2001-04-30
+1088;Ghostbusters;4;2001-11-04
+1160;Ghostbusters;5;2001-12-10
+1243;Ghostbusters;4;2001-01-08
+1266;Ghostbusters;4;2001-01-03
+1306;Ghostbusters;5;2002-10-31
+1390;Ghostbusters;4;2001-01-26
+1399;Ghostbusters;4;2001-12-17
+1447;Ghostbusters;5;2001-02-01
+1505;Ghostbusters;4;2001-03-03
+1628;Ghostbusters;4;2001-01-06
+1643;Ghostbusters;4;2002-01-23
+1717;Ghostbusters;5;2001-01-22
+1733;Ghostbusters;4;2002-05-12
+1776;Ghostbusters;4;2001-02-24
+1834;Ghostbusters;5;2001-10-01
+1861;Ghostbusters;4;2001-06-10
+1897;Ghostbusters;4;2002-02-20
+1930;Ghostbusters;4;2001-02-17
+1978;Ghostbusters;4;2001-06-06
+2041;Ghostbusters;5;2001-02-24
+2122;Ghostbusters;4;2001-01-19
+2131;Ghostbusters;4;2001-07-01
+2239;Ghostbusters;4;2001-04-09
+2242;Ghostbusters;5;2001-05-21
+2247;Ghostbusters;5;2001-11-24
+2359;Ghostbusters;4;2001-03-31
+2501;Ghostbusters;4;2001-07-12
+2504;Ghostbusters;4;2001-11-10
+2544;Ghostbusters;4;2001-01-08
+2594;Ghostbusters;4;2002-03-05
+2621;Ghostbusters;5;2002-03-23
+2655;Ghostbusters;5;2002-01-03
+2683;Ghostbusters;5;2001-01-19
+2756;Ghostbusters;5;2001-03-30
+2868;Ghostbusters;4;2001-06-16
+2969;Ghostbusters;5;2001-02-22
+2980;Ghostbusters;4;2001-02-24
+2985;Ghostbusters;4;2002-08-20
+2998;Ghostbusters;4;2001-01-10
+3002;Ghostbusters;4;2002-10-09
+3158;Ghostbusters;4;2001-06-20
+3219;Ghostbusters;5;2001-01-01
+3367;Ghostbusters;4;2001-02-21
+3413;Ghostbusters;4;2002-09-07
+3462;Ghostbusters;4;2001-08-31
+3560;Ghostbusters;5;2001-08-19
+3648;Ghostbusters;5;2001-10-11
+3746;Ghostbusters;4;2002-03-04
+3953;Ghostbusters;4;2002-08-23
+4005;Ghostbusters;5;2001-12-01
+4118;Ghostbusters;4;2001-02-28
+4126;Ghostbusters;4;2001-01-04
+4232;Ghostbusters;5;2002-06-07
+4241;Ghostbusters;4;2001-03-01
+4467;Ghostbusters;4;2002-09-18
+4478;Ghostbusters;4;2001-03-23
+4489;Ghostbusters;5;2002-07-17
+4517;Ghostbusters;4;2001-05-28
+4604;Ghostbusters;4;2001-05-13
+4607;Ghostbusters;4;2001-06-11
+4834;Ghostbusters;4;2001-04-01
+5205;Ghostbusters;4;2001-01-12
+5394;Ghostbusters;4;2001-01-28
+5453;Ghostbusters;5;2002-08-14
+5723;Ghostbusters;4;2001-08-29
+5787;Ghostbusters;4;2001-09-21
+10;Ghostbusters II;4;2001-01-17
+73;Ghostbusters II;4;2001-02-07
+92;Ghostbusters II;4;2001-04-02
+148;Ghostbusters II;4;2001-01-15
+231;Ghostbusters II;4;2002-08-23
+271;Ghostbusters II;4;2001-01-18
+372;Ghostbusters II;5;2001-01-25
+496;Ghostbusters II;5;2001-06-23
+531;Ghostbusters II;4;2001-01-05
+791;Ghostbusters II;4;2001-02-12
+1306;Ghostbusters II;4;2002-02-24
+1425;Ghostbusters II;4;2001-12-11
+1505;Ghostbusters II;4;2002-01-04
+2242;Ghostbusters II;4;2001-05-21
+3503;Ghostbusters II;4;2001-09-28
+4126;Ghostbusters II;4;2001-09-02
+4478;Ghostbusters II;4;2001-06-06
+4517;Ghostbusters II;4;2001-05-28
+4520;Ghostbusters II;4;2001-05-26
+582;Haunting, The;4;2001-02-12
+1842;Haunting, The;4;2001-07-29
+3626;Haunting, The;4;2001-01-11
+3792;Haunting, The;4;2001-01-19
+4371;Haunting, The;4;2001-11-09
+5205;Haunting, The;4;2001-01-12
+11;Little Shop of Horrors;4;2001-01-07
+19;Little Shop of Horrors;4;2001-01-03
+411;Little Shop of Horrors;5;2001-04-13
+438;Little Shop of Horrors;5;2001-02-07
+531;Little Shop of Horrors;4;2001-01-05
+583;Little Shop of Horrors;4;2001-02-22
+678;Little Shop of Horrors;5;2001-04-30
+692;Little Shop of Horrors;4;2001-01-01
+696;Little Shop of Horrors;4;2001-01-13
+1029;Little Shop of Horrors;4;2001-06-23
+1165;Little Shop of Horrors;4;2002-09-08
+1425;Little Shop of Horrors;4;2001-03-02
+1447;Little Shop of Horrors;5;2001-02-01
+1530;Little Shop of Horrors;4;2001-06-06
+1980;Little Shop of Horrors;4;2001-09-01
+2129;Little Shop of Horrors;5;2001-02-28
+2232;Little Shop of Horrors;4;2001-01-01
+2242;Little Shop of Horrors;4;2001-05-21
+2544;Little Shop of Horrors;4;2002-06-23
+2880;Little Shop of Horrors;4;2001-05-05
+2905;Little Shop of Horrors;4;2002-07-27
+2944;Little Shop of Horrors;4;2002-01-16
+3038;Little Shop of Horrors;4;2002-04-05
+3679;Little Shop of Horrors;4;2001-02-06
+3773;Little Shop of Horrors;4;2002-10-17
+4126;Little Shop of Horrors;4;2002-03-13
+4520;Little Shop of Horrors;4;2001-05-26
+4867;Little Shop of Horrors;5;2002-05-06
+5001;Little Shop of Horrors;4;2002-04-28
+5054;Little Shop of Horrors;5;2001-12-28
+5205;Little Shop of Horrors;4;2001-01-12
+5312;Little Shop of Horrors;4;2001-08-26
+5787;Little Shop of Horrors;4;2001-09-21
+195;Little Shop of Horrors, The;4;2001-01-04
+271;Little Shop of Horrors, The;4;2001-01-18
+329;Little Shop of Horrors, The;5;2001-02-09
+411;Little Shop of Horrors, The;5;2001-01-02
+1051;Little Shop of Horrors, The;4;2001-04-14
+1447;Little Shop of Horrors, The;4;2001-02-01
+1611;Little Shop of Horrors, The;4;2001-05-09
+2242;Little Shop of Horrors, The;4;2001-05-21
+4520;Little Shop of Horrors, The;4;2001-05-26
+5450;Little Shop of Horrors, The;4;2001-01-10
+5605;Little Shop of Horrors, The;5;2001-04-15
+424;Tingler, The;4;2002-11-12
+1186;Tingler, The;4;2001-01-12
+2641;Tingler, The;4;2001-04-25
+343;Pit and the Pendulum;4;2002-04-14
+424;Pit and the Pendulum;4;2002-05-27
+2050;Pit and the Pendulum;4;2001-08-04
+2909;Pit and the Pendulum;4;2001-12-26
+3018;Pit and the Pendulum;4;2001-02-20
+3768;Pit and the Pendulum;4;2001-09-04
+4169;Tomb of Ligeia, The;4;2001-01-14
+3018;Masque of the Red Death, The;4;2001-02-20
+424;Tales of Terror;4;2002-04-08
+4169;Tales of Terror;4;2001-01-14
+1889;Cat's Eye;4;2001-05-05
+3590;Cat's Eye;4;2002-10-27
+1120;Damien: Omen II;4;2002-11-14
+1776;Damien: Omen II;4;2001-03-20
+678;Final Conflict, The (a.k.a. Omen III: The Final Conflict);4;2001-04-30
+438;American Werewolf in Paris, An;4;2001-01-30
+692;American Werewolf in Paris, An;4;2001-01-01
+1812;American Werewolf in Paris, An;4;2001-08-17
+2969;American Werewolf in Paris, An;4;2001-08-16
+3420;American Werewolf in Paris, An;4;2001-05-24
+4186;American Werewolf in Paris, An;5;2002-04-02
+188;13th Warrior, The;4;2002-01-19
+195;13th Warrior, The;4;2001-12-01
+271;13th Warrior, The;4;2001-01-18
+582;13th Warrior, The;4;2001-02-12
+749;13th Warrior, The;4;2001-12-10
+754;13th Warrior, The;4;2001-01-12
+1101;13th Warrior, The;4;2001-02-12
+1117;13th Warrior, The;4;2001-09-21
+1451;13th Warrior, The;4;2001-01-16
+1547;13th Warrior, The;4;2001-11-27
+1601;13th Warrior, The;4;2001-01-03
+1645;13th Warrior, The;4;2001-04-29
+1712;13th Warrior, The;5;2002-01-26
+1982;13th Warrior, The;4;2001-01-16
+2025;13th Warrior, The;4;2001-01-14
+2120;13th Warrior, The;4;2001-02-12
+2193;13th Warrior, The;4;2001-02-09
+2271;13th Warrior, The;4;2001-11-30
+3055;13th Warrior, The;4;2002-05-16
+3158;13th Warrior, The;4;2001-06-20
+3512;13th Warrior, The;4;2001-09-10
+3824;13th Warrior, The;4;2001-12-04
+4085;13th Warrior, The;4;2001-04-01
+4169;13th Warrior, The;4;2002-02-25
+4277;13th Warrior, The;4;2001-03-04
+4579;13th Warrior, The;4;2001-12-17
+5386;13th Warrior, The;4;2001-01-08
+840;Fright Night;4;2001-07-13
+1639;Fright Night;4;2001-01-21
+1733;Fright Night;4;2002-10-05
+2643;Fright Night;4;2002-09-06
+2910;Fright Night;4;2002-03-18
+4520;Fright Night;4;2001-05-26
+5205;Fright Night;4;2001-01-12
+2910;Fright Night Part II;4;2002-03-18
+424;Dark Half, The;4;2002-03-21
+1611;Dark Half, The;4;2001-01-29
+678;Monkey Shines;4;2001-04-30
+1611;Monkey Shines;4;2001-01-29
+1643;Monkey Shines;5;2002-01-23
+3332;Monkey Shines;5;2001-04-21
+23;Phantasm;5;2001-01-02
+839;Phantasm;4;2001-01-29
+1643;Phantasm;4;2002-01-23
+2131;Phantasm;4;2001-07-01
+2781;Phantasm;4;2002-01-14
+2910;Phantasm;5;2002-03-18
+4305;Phantasm;4;2002-01-11
+4477;Phantasm;4;2002-02-13
+2910;Psycho II;4;2002-03-18
+19;Bringing Out the Dead;5;2001-01-07
+90;Bringing Out the Dead;4;2001-06-29
+188;Bringing Out the Dead;4;2002-01-19
+195;Bringing Out the Dead;4;2001-01-14
+839;Bringing Out the Dead;4;2001-01-31
+1019;Bringing Out the Dead;4;2002-05-20
+1164;Bringing Out the Dead;4;2001-07-25
+1425;Bringing Out the Dead;4;2001-05-14
+1447;Bringing Out the Dead;4;2001-08-08
+1449;Bringing Out the Dead;4;2001-02-26
+1643;Bringing Out the Dead;4;2002-01-23
+1842;Bringing Out the Dead;4;2001-07-29
+2076;Bringing Out the Dead;4;2001-02-19
+2168;Bringing Out the Dead;5;2002-05-18
+2427;Bringing Out the Dead;4;2001-05-25
+3333;Bringing Out the Dead;4;2001-06-26
+195;House on Haunted Hill, The;4;2001-05-27
+1088;House on Haunted Hill, The;4;2001-01-10
+2195;House on Haunted Hill, The;4;2001-05-05
+438;Creepshow;4;2001-02-07
+937;Creepshow;4;2001-07-13
+1451;Creepshow;4;2002-03-14
+1834;Creepshow;4;2002-11-24
+2501;Creepshow;5;2001-07-12
+2638;Creepshow;4;2001-01-21
+3194;Creepshow;4;2001-01-08
+3410;Creepshow;4;2001-01-13
+3550;Creepshow;4;2001-12-27
+424;Re-Animator;4;2001-06-22
+699;Re-Animator;4;2001-04-06
+1369;Re-Animator;4;2001-08-18
+1643;Re-Animator;5;2002-01-23
+2781;Re-Animator;4;2001-05-11
+2910;Re-Animator;5;2002-03-18
+4118;Re-Animator;5;2001-02-28
+4312;Re-Animator;4;2001-09-25
+5205;Re-Animator;4;2001-01-12
+1447;Funhouse, The;5;2001-02-01
+424;Piranha;4;2002-04-01
+4802;Piranha;4;2001-07-25
+19;Sleepy Hollow;4;2001-01-03
+148;Sleepy Hollow;4;2001-01-15
+162;Sleepy Hollow;4;2001-01-08
+372;Sleepy Hollow;5;2001-01-25
+403;Sleepy Hollow;4;2002-02-22
+438;Sleepy Hollow;4;2001-01-30
+518;Sleepy Hollow;5;2002-12-30
+531;Sleepy Hollow;4;2001-01-10
+678;Sleepy Hollow;4;2001-05-07
+692;Sleepy Hollow;4;2002-07-07
+710;Sleepy Hollow;4;2002-04-13
+839;Sleepy Hollow;4;2001-01-29
+881;Sleepy Hollow;4;2002-02-12
+884;Sleepy Hollow;4;2001-08-23
+890;Sleepy Hollow;5;2001-01-21
+926;Sleepy Hollow;4;2001-11-24
+1051;Sleepy Hollow;5;2001-04-13
+1088;Sleepy Hollow;4;2002-01-17
+1160;Sleepy Hollow;4;2001-12-10
+1243;Sleepy Hollow;4;2001-01-08
+1260;Sleepy Hollow;4;2001-06-11
+1280;Sleepy Hollow;4;2001-10-26
+1425;Sleepy Hollow;4;2002-08-07
+1447;Sleepy Hollow;4;2001-02-01
+1593;Sleepy Hollow;4;2002-02-19
+1643;Sleepy Hollow;4;2002-01-23
+1701;Sleepy Hollow;5;2001-03-12
+1717;Sleepy Hollow;4;2001-12-24
+1780;Sleepy Hollow;4;2002-12-15
+1842;Sleepy Hollow;4;2001-06-25
+1978;Sleepy Hollow;4;2001-06-30
+1998;Sleepy Hollow;4;2001-02-10
+2176;Sleepy Hollow;4;2002-12-03
+2489;Sleepy Hollow;4;2002-03-06
+2611;Sleepy Hollow;4;2001-06-18
+2796;Sleepy Hollow;4;2001-08-08
+2820;Sleepy Hollow;4;2001-01-17
+2868;Sleepy Hollow;4;2001-06-16
+2962;Sleepy Hollow;4;2001-01-03
+2969;Sleepy Hollow;4;2001-02-22
+3055;Sleepy Hollow;4;2001-08-18
+3158;Sleepy Hollow;5;2001-06-20
+3626;Sleepy Hollow;4;2001-01-11
+4823;Sleepy Hollow;4;2002-02-17
+5001;Sleepy Hollow;5;2002-04-28
+5654;Sleepy Hollow;4;2001-07-20
+5787;Sleepy Hollow;4;2001-09-21
+5891;Sleepy Hollow;4;2001-02-08
+1186;Black Sunday (La Maschera Del Demonio);5;2002-11-17
+19;Buffy the Vampire Slayer;4;2001-01-03
+44;Buffy the Vampire Slayer;4;2001-10-29
+90;Buffy the Vampire Slayer;4;2001-06-29
+890;Buffy the Vampire Slayer;5;2001-08-13
+1088;Buffy the Vampire Slayer;4;2001-09-13
+1101;Buffy the Vampire Slayer;4;2001-02-12
+1117;Buffy the Vampire Slayer;4;2001-09-21
+1203;Buffy the Vampire Slayer;4;2001-08-19
+1306;Buffy the Vampire Slayer;5;2002-02-10
+1447;Buffy the Vampire Slayer;4;2001-02-01
+1611;Buffy the Vampire Slayer;4;2001-01-29
+1812;Buffy the Vampire Slayer;4;2002-08-01
+1941;Buffy the Vampire Slayer;4;2001-05-07
+2918;Buffy the Vampire Slayer;4;2001-09-06
+2926;Buffy the Vampire Slayer;5;2001-11-24
+3080;Buffy the Vampire Slayer;4;2002-03-01
+3562;Buffy the Vampire Slayer;4;2002-06-13
+4085;Buffy the Vampire Slayer;4;2001-04-01
+372;Scream 3;5;2001-01-25
+531;Scream 3;4;2001-01-05
+753;Scream 3;4;2002-01-27
+767;Scream 3;4;2002-05-29
+1943;Scream 3;4;2001-01-24
+2063;Scream 3;4;2001-07-22
+4126;Scream 3;4;2002-04-03
+5492;Scream 3;4;2001-08-01
+5682;Scream 3;4;2002-07-14
+5450;Bride of the Monster;4;2001-05-14
+678;Gothic;4;2001-04-30
+308;Jacob's Ladder;4;2001-07-22
+678;Jacob's Ladder;4;2001-05-07
+839;Jacob's Ladder;5;2001-01-23
+881;Jacob's Ladder;5;2002-02-12
+1051;Jacob's Ladder;4;2001-04-13
+1451;Jacob's Ladder;5;2001-12-13
+1530;Jacob's Ladder;4;2001-03-19
+1643;Jacob's Ladder;5;2002-01-23
+1712;Jacob's Ladder;4;2001-01-24
+1717;Jacob's Ladder;5;2001-12-24
+1733;Jacob's Ladder;4;2002-05-12
+1842;Jacob's Ladder;4;2001-06-24
+1889;Jacob's Ladder;4;2001-05-05
+1958;Jacob's Ladder;4;2001-11-17
+2190;Jacob's Ladder;4;2002-06-23
+2453;Jacob's Ladder;4;2001-01-02
+2683;Jacob's Ladder;4;2001-01-19
+2781;Jacob's Ladder;4;2001-05-11
+2841;Jacob's Ladder;5;2001-03-04
+2962;Jacob's Ladder;4;2001-01-08
+3053;Jacob's Ladder;4;2002-01-24
+3112;Jacob's Ladder;4;2001-01-01
+3503;Jacob's Ladder;4;2001-11-10
+3679;Jacob's Ladder;4;2001-01-26
+5792;Jacob's Ladder;4;2001-09-20
+204;Misery;5;2001-03-05
+302;Misery;4;2001-01-28
+306;Misery;5;2001-01-10
+338;Misery;4;2001-04-24
+372;Misery;5;2001-01-25
+424;Misery;4;2002-04-01
+442;Misery;4;2001-01-02
+482;Misery;4;2001-10-02
+678;Misery;5;2001-05-07
+692;Misery;4;2001-01-01
+791;Misery;5;2001-02-12
+839;Misery;5;2001-01-23
+1087;Misery;4;2001-05-22
+1088;Misery;4;2002-06-08
+1117;Misery;4;2001-09-21
+1266;Misery;4;2001-01-03
+1317;Misery;4;2002-02-17
+1369;Misery;4;2001-08-18
+1390;Misery;4;2002-03-18
+1451;Misery;4;2002-03-14
+1457;Misery;5;2001-03-01
+1484;Misery;4;2001-08-15
+1516;Misery;4;2001-11-01
+1643;Misery;5;2002-01-23
+1712;Misery;5;2001-01-24
+1842;Misery;4;2001-06-24
+1889;Misery;4;2001-05-05
+1925;Misery;4;2002-07-06
+2020;Misery;5;2001-07-02
+2041;Misery;4;2001-10-12
+2077;Misery;5;2001-01-20
+2092;Misery;5;2001-10-06
+2129;Misery;5;2001-02-28
+2380;Misery;4;2001-01-26
+2507;Misery;5;2001-01-27
+2544;Misery;4;2001-01-06
+2760;Misery;4;2001-11-21
+2781;Misery;4;2001-05-11
+3259;Misery;5;2002-11-18
+3260;Misery;5;2002-04-22
+3277;Misery;4;2001-10-22
+3410;Misery;4;2001-07-18
+3420;Misery;4;2001-05-10
+3462;Misery;4;2001-08-31
+3475;Misery;4;2001-08-19
+3560;Misery;4;2001-08-19
+3768;Misery;4;2001-04-13
+4118;Misery;5;2001-02-28
+4448;Misery;5;2001-05-30
+4520;Misery;4;2001-05-26
+4765;Misery;4;2002-01-25
+4867;Misery;4;2001-09-07
+5054;Misery;4;2001-12-28
+5090;Misery;4;2002-01-16
+5102;Misery;5;2001-02-22
+5277;Misery;4;2001-02-27
+5317;Misery;4;2001-08-14
+5737;Misery;4;2001-04-07
+5792;Misery;4;2001-09-20
+5996;Misery;4;2002-04-29
+140;American Psycho;4;2001-06-30
+173;American Psycho;4;2001-12-29
+192;American Psycho;4;2002-07-18
+633;American Psycho;4;2001-11-14
+716;American Psycho;5;2001-02-22
+1019;American Psycho;4;2002-08-05
+1086;American Psycho;4;2001-01-16
+1265;American Psycho;5;2001-09-20
+1306;American Psycho;4;2002-03-01
+1340;American Psycho;4;2001-10-21
+1407;American Psycho;5;2001-03-05
+1425;American Psycho;5;2001-11-24
+1447;American Psycho;4;2001-02-01
+1524;American Psycho;5;2001-12-14
+1579;American Psycho;4;2001-08-20
+1812;American Psycho;5;2002-04-19
+1865;American Psycho;4;2002-02-20
+1866;American Psycho;5;2001-06-15
+1889;American Psycho;4;2001-05-05
+2050;American Psycho;4;2001-09-08
+2757;American Psycho;4;2001-01-22
+2781;American Psycho;4;2001-05-11
+2820;American Psycho;4;2001-01-01
+2840;American Psycho;4;2001-09-30
+2847;American Psycho;4;2002-08-10
+2910;American Psycho;4;2002-03-18
+2931;American Psycho;4;2001-02-03
+2944;American Psycho;4;2002-01-12
+3067;American Psycho;4;2001-07-31
+3159;American Psycho;4;2001-12-15
+3163;American Psycho;4;2001-01-26
+3333;American Psycho;5;2001-06-26
+3386;American Psycho;4;2001-01-25
+3471;American Psycho;5;2001-10-09
+3832;American Psycho;4;2001-02-28
+4117;American Psycho;4;2002-05-30
+4277;American Psycho;4;2001-02-15
+4310;American Psycho;4;2001-12-07
+4327;American Psycho;4;2001-01-19
+4543;American Psycho;4;2001-05-22
+5011;American Psycho;4;2002-07-14
+5126;American Psycho;4;2001-06-20
+5205;American Psycho;4;2001-01-12
+5319;American Psycho;4;2001-04-25
+5654;American Psycho;4;2001-07-20
+5792;American Psycho;4;2001-09-20
+5874;American Psycho;5;2002-01-13
+195;Hunger, The;5;2001-02-08
+1451;Hunger, The;4;2002-03-14
+1643;Hunger, The;4;2002-01-23
+4448;Crow: Salvation, The;4;2001-07-23
+23;Hidden, The;5;2001-01-02
+36;Hidden, The;4;2001-06-27
+424;Hidden, The;4;2002-12-07
+678;Hidden, The;4;2001-04-16
+839;Hidden, The;4;2001-01-29
+1451;Hidden, The;4;2002-07-31
+1643;Hidden, The;4;2002-01-23
+2129;Hidden, The;4;2001-02-28
+2772;Hidden, The;4;2001-02-01
+2781;Hidden, The;5;2001-05-11
+2841;Hidden, The;5;2001-02-21
+1530;Carnival of Souls;4;2002-01-23
+2781;Carnival of Souls;5;2001-05-11
+3054;Carnival of Souls;4;2002-07-19
+3301;Carnival of Souls;4;2001-09-30
+4579;Carnival of Souls;4;2002-11-10
+148;Puppet Master;4;2001-01-15
+2131;Puppet Master;4;2001-07-01
+2910;Puppet Master;4;2002-03-18
+4520;Puppet Master;4;2002-02-22
+1369;Eraserhead;4;2001-08-18
+1643;Eraserhead;5;2002-01-23
+1729;Eraserhead;4;2001-02-03
+1980;Eraserhead;4;2001-08-28
+2176;Eraserhead;5;2002-01-02
+2880;Eraserhead;4;2001-05-05
+3080;Eraserhead;5;2002-01-18
+5397;Eraserhead;5;2001-07-19
+2627;Toxic Avenger, The;5;2001-04-30
+3080;Toxic Avenger, The;4;2002-03-01
+1639;Night of the Creeps;4;2001-01-21
+2909;Night of the Creeps;4;2001-12-26
+4508;Night of the Creeps;4;2001-06-21
+148;Firestarter;4;2001-01-15
+343;Firestarter;4;2001-11-25
+372;Firestarter;5;2001-01-25
+678;Firestarter;4;2001-04-30
+791;Firestarter;4;2001-02-12
+1643;Firestarter;4;2002-01-23
+1958;Firestarter;4;2001-10-01
+2131;Firestarter;4;2001-07-01
+4445;Sleepwalkers;4;2001-01-18
+678;Near Dark;4;2001-04-16
+2131;Near Dark;4;2001-07-01
+4610;Near Dark;4;2001-03-17
+5787;Near Dark;4;2001-09-21
+424;Fury, The;4;2002-11-05
+3018;Fury, The;4;2001-02-20
+85;Scary Movie;5;2001-01-14
+99;Scary Movie;4;2001-02-22
+198;Scary Movie;4;2001-06-01
+438;Scary Movie;4;2001-01-30
+496;Scary Movie;4;2001-07-09
+528;Scary Movie;4;2001-01-09
+667;Scary Movie;4;2001-12-11
+749;Scary Movie;4;2001-01-25
+753;Scary Movie;4;2002-01-27
+890;Scary Movie;4;2001-01-21
+1117;Scary Movie;4;2001-09-21
+1266;Scary Movie;4;2001-01-03
+1458;Scary Movie;4;2001-05-15
+1587;Scary Movie;5;2002-01-06
+1712;Scary Movie;4;2001-01-24
+1842;Scary Movie;4;2001-06-23
+1930;Scary Movie;4;2001-02-17
+1954;Scary Movie;4;2002-05-14
+1978;Scary Movie;4;2001-07-06
+2103;Scary Movie;4;2001-01-10
+2316;Scary Movie;4;2002-11-29
+2453;Scary Movie;4;2002-01-06
+2504;Scary Movie;4;2001-11-10
+2847;Scary Movie;4;2002-08-10
+3067;Scary Movie;4;2001-07-31
+3203;Scary Movie;4;2001-06-10
+3648;Scary Movie;4;2001-10-11
+3768;Scary Movie;4;2001-02-25
+3970;Scary Movie;4;2001-01-10
+4039;Scary Movie;4;2001-01-13
+4294;Scary Movie;4;2001-11-21
+4305;Scary Movie;5;2002-01-07
+4310;Scary Movie;4;2002-01-07
+4489;Scary Movie;4;2001-01-30
+4748;Scary Movie;4;2002-09-03
+4834;Scary Movie;4;2001-02-12
+5053;Scary Movie;4;2001-04-21
+5205;Scary Movie;4;2001-01-12
+5387;Scary Movie;4;2001-09-19
+5492;Scary Movie;4;2001-08-02
+5605;Scary Movie;5;2001-04-15
+5682;Scary Movie;5;2002-07-15
+85;Hollow Man;4;2001-01-14
+150;Hollow Man;4;2001-03-04
+306;Hollow Man;4;2001-01-15
+372;Hollow Man;5;2001-01-25
+582;Hollow Man;5;2001-02-12
+753;Hollow Man;4;2002-01-27
+926;Hollow Man;5;2001-11-24
+1579;Hollow Man;4;2001-11-04
+1941;Hollow Man;4;2001-07-20
+2272;Hollow Man;4;2001-01-07
+2655;Hollow Man;4;2002-01-03
+2669;Hollow Man;4;2001-04-15
+2907;Hollow Man;5;2001-03-09
+3158;Hollow Man;4;2001-06-20
+3386;Hollow Man;4;2001-01-25
+3792;Hollow Man;4;2001-01-19
+4277;Hollow Man;4;2001-03-17
+4305;Hollow Man;4;2002-01-20
+4445;Hollow Man;4;2001-01-18
+5312;Hollow Man;4;2002-07-10
+5598;Hollow Man;4;2002-04-02
+5682;Hollow Man;4;2002-07-15
+678;Psycho Beach Party;4;2002-06-23
+869;Psycho Beach Party;5;2001-09-01
+1306;Psycho Beach Party;4;2002-03-02
+1425;Psycho Beach Party;4;2002-11-28
+2868;Psycho Beach Party;4;2001-07-09
+5605;Psycho Beach Party;5;2001-07-07
+424;Black Sabbath (Tre Volti Della Paura, I);4;2002-10-21
+2131;Phantasm II;4;2001-07-01
+2910;Phantasm II;5;2002-03-18
+2131;Phantasm III: Lord of the Dead;4;2001-07-01
+2910;Phantasm III: Lord of the Dead;5;2002-03-18
+2131;Phantasm IV: Oblivion;4;2001-07-01
+2910;Phantasm IV: Oblivion;5;2002-06-04
+2131;Pumpkinhead;4;2001-07-01
+1088;Anatomy (Anatomie);4;2002-07-29
+2898;Anatomy (Anatomie);4;2002-12-10
+2910;Anatomy (Anatomie);5;2002-06-04
+753;Urban Legends: Final Cut;4;2002-01-27
+2909;Urban Legends: Final Cut;5;2001-12-26
+2910;Urban Legends: Final Cut;4;2002-03-18
+4305;Urban Legends: Final Cut;5;2002-01-11
+442;Hellraiser;4;2001-01-02
+1447;Hellraiser;4;2002-07-10
+1451;Hellraiser;4;2002-03-14
+1643;Hellraiser;4;2002-01-23
+1733;Hellraiser;4;2002-05-12
+1776;Hellraiser;4;2001-03-20
+2131;Hellraiser;4;2001-07-01
+2910;Hellraiser;4;2002-03-18
+3163;Hellraiser;4;2001-12-06
+3626;Hellraiser;4;2001-05-30
+4107;Hellraiser;4;2001-01-06
+4312;Hellraiser;4;2001-09-27
+4520;Hellraiser;4;2001-05-26
+5205;Hellraiser;5;2001-01-12
+5387;Hellraiser;4;2001-09-19
+5605;Hellraiser;5;2001-04-15
+116;Hellbound: Hellraiser II;4;2001-08-10
+678;Hellbound: Hellraiser II;4;2001-04-30
+1447;Hellbound: Hellraiser II;4;2002-07-10
+1776;Hellbound: Hellraiser II;4;2001-03-20
+4312;Hellbound: Hellraiser II;4;2001-09-27
+4520;Hellbound: Hellraiser II;4;2001-05-26
+2910;Hellraiser III: Hell on Earth;4;2002-03-18
+44;Abbott and Costello Meet Frankenstein;4;2001-10-29
+424;Abbott and Costello Meet Frankenstein;4;2002-03-27
+1088;Abbott and Costello Meet Frankenstein;4;2002-11-13
+4186;Abbott and Costello Meet Frankenstein;4;2002-07-31
+4802;Abbott and Costello Meet Frankenstein;4;2001-01-01
+173;Creature From the Black Lagoon, The;4;2001-06-22
+1186;Creature From the Black Lagoon, The;5;2001-01-12
+4079;Creature From the Black Lagoon, The;4;2001-05-25
+4305;Creature From the Black Lagoon, The;5;2002-01-11
+4386;Creature From the Black Lagoon, The;4;2001-03-30
+4940;Creature From the Black Lagoon, The;4;2002-05-21
+1186;Giant Gila Monster, The;4;2001-01-12
+424;Invisible Man, The;5;2002-12-23
+1186;Invisible Man, The;5;2001-03-21
+1643;Invisible Man, The;5;2002-01-23
+1912;Invisible Man, The;4;2001-01-19
+3018;Invisible Man, The;4;2001-02-20
+3038;Invisible Man, The;4;2002-04-05
+3768;Invisible Man, The;4;2001-09-10
+3842;Invisible Man, The;4;2002-03-19
+4305;Invisible Man, The;4;2002-01-11
+4448;Invisible Man, The;4;2001-04-02
+4579;Invisible Man, The;4;2001-07-28
+4802;Invisible Man, The;5;2001-07-25
+4815;Invisible Man, The;5;2001-06-01
+4169;Kronos;4;2001-01-14
+5636;Kronos;4;2002-06-18
+1447;Slumber Party Massacre III, The;4;2002-07-10
